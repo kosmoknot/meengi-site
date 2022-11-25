@@ -42,62 +42,24 @@ $$childMap$$
 
 //<------ DO NOT DELETE THESE
 
-//Custom Templates for testing------>
-
-# $Template0(arg1)
-$$arg1$$ is part of the Template0. Just to be clear $$arg1$$ ISS A PART OF TEMPLATE0!!!
-#
-
-# $Template1(arg1,arg2)
-$$arg1$$ and $$arg2$$ are part of the Template1
-#
-
-# $Template2():
-This is Template2. It has zero arguments.
-#
-
-# $Template3()
-Template3 is a multiline template;
-with line1
-line2
-line3
-#
-
-# $Template4()
-Template4 is using another template in it, $Template1(Rainbow,Sunshine)$
-#
-
-# $Template5()
-Template5 is template with self referece, $Template5()$.
-#
-
-# $Template6();
-Template 6 contains a cyclic dependence and so does $Template7()$.
-#
-
-# $Template7():
-Template 7 contains a cyclic dependence and so does $Template6()$.
-#
-
-//<------Custom Templates for testing
-
 # $Header():
 <!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Meengi demo website">
+    <meta name="description" content="Digital garden of Anup">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <title>Meengi - $PageName()$ </title>
-    <link rel="icon" href="/links/images/meengi.png" type="image/icon type">
+    <link rel="icon" href="/links/images/logo.png" type="image/icon type">
     <link href="/links/style.css" rel="stylesheet" type="text/css" media="all">
 </head>
-
 <body>
+<div class="bodyContainer">
 #
 
 # $Footer():
+</div>
 </body>
 <footer>
     <div class="footerContainer">
