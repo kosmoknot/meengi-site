@@ -1,0 +1,3 @@
+[submodule "meengi"]
+	path = meengi
+	url = https://github.com/kosmoknot/meengi.git
