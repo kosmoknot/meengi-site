@@ -1,4 +1,7 @@
 $Header()$
-<h1>Map of the Site</h1>
+<h1>Site Map</h1>
+<div class="description">
+Explore uninhibitedly!
+</div>
 $TreeMap()$
 $Footer()$

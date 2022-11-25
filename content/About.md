@@ -1,28 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="description" content="Digital garden of kosmoknot">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>kosmoknot - About </title>
-    <link rel="icon" href="/links/images/icon.png" type="image/icon type">
-    <link href="/links/style.css" rel="stylesheet" type="text/css" media="all">
-    <script src="/links/script.js"></script>
-</head>
-<body>
-<div class="NavigList"><div class="NavigItem"><a href="About.html">About</a></div><div class="NavigItem"><a href="index.html">index</a></div>
-<div class="NavigItem"> <a href="Sitemap.html">Sitemap</a></div>
-</div>
-<div class="bodyContainer">
+$Header()$
 <div class="content">
 <h2>About Me</h2>
 Hello, I'm Anup and I maintain this website in my free time.<br> <br> I am working as R&D engineer and enjoy working on varied projects. Some of which you can find here. <br> <br>You could treat this as a
 personal database of my life. This website is no way complete and shall never will be, please expect unfinished
 notes and artwork here.
 
-<div class="hrcls">
-<hr>
-</div>
+$hr()$
 <h2>Philosophy</h2>
 <h3>Why emphasise Free (as in Freedom)?</h3>
 <h3>Why digital garden?</h3>
@@ -30,24 +13,18 @@ notes and artwork here.
 <h3>Why PixelArt?</h3>
 I wanted to have almost all of the content on this site to be original or if not orignal then atleast transformed by me in some shape or form. Sadly I am really bad at art and PixelArt is easy. :-)
 
-<div class="hrcls">
-<hr>
-</div>
+$hr()$
 <h2><a href="https://github.com/kosmoknot/meengi">Meengi</a> </h2>
 This Website is created using Meengi. Meengi was designed for creating static websites similar to this. Meengi is free to use and requires some basic knowledge of the html and css. Please feel free to use it as you wish!
 
-<div class="hrcls">
-<hr>
-</div>
+$hr()$
 <h2>Contact</h2>
 <ul>
 <li> <b>Email</b>:         kosmoknot@protonmail.com
 <li> <b>Mastodon</b>:      @kosmoknot@mas.to
 </ul>
 
-<div class="hrcls">
-<hr>
-</div>
+$hr()$
 <h2>License</h2>
 
 The license applies to all the <i>documented projects, the projects themselves and their assets</i>. The platform code is under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank"><b>GPL-3.0 license</b></a>. The assets and text content are under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><b>BY-NC-SA4.0 License</b></a>.<br><br>
@@ -64,9 +41,7 @@ The license applies to all the <i>documented projects, the projects themselves a
 
 </div>
 
-<div class="hrcls">
-<hr>
-</div>
+$hr()$
 <h2>Attribution</h2>
 Here are some of my sources and inspirations,
 <ul>
@@ -75,31 +50,4 @@ Here are some of my sources and inspirations,
 <li><a href="https://abstractxan.xyz/site/about">abstractxan</a>: Content and design inspirations.
 </ul>
 
-</div>
-</body>
-<footer>
-    <div class="footerContainer">
-        <div class="footer">
-            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-                <img id="cc" alt="Creative Commons License" src="/links/images/creative_commons_min.webp" />
-            </a>
-            <a rel="meengi" href="https://github.com/kosmoknot/meengi">
-                <img id="meengi" src="/links/images/meengi_light.png" />
-            </a>
-            <a rel="github" href="https://github.com/kosmoknot">
-                <img id="git" src="/links//images/github.webp" />
-            </a>
-            <a rel="neocities" href="https://neocities.org/site/kosmoknot">
-                <img id="neo" src="/links/images/neocities.webp" />
-            </a>
-                <a rel="mastodon" href="https://mas.to/@kosmoknot">
-                <img id="masto" src="/links/images/mastadon.png" />
-            </a>
-        </div>
-        <div class="footer_text">
-            <p>KosmoKnot Ⓒ 2022 — BY-NC-SA 4.0</p>
-        </div>
-    </div>
-</footer>
-
-</html>
+$Footer()$

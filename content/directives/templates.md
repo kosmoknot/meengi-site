@@ -53,9 +53,9 @@ $$childMap$$
 <html>
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Digital garden of Anup">
+    <meta name="description" content="Digital garden of kosmoknot">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>Meengi - $PageName()$ </title>
+    <title>kosmoknot - $PageName()$ </title>
     <link rel="icon" href="/links/images/icon.png" type="image/icon type">
     <link href="/links/style.css" rel="stylesheet" type="text/css" media="all">
     <script src="/links/script.js"></script>
@@ -74,17 +74,17 @@ $NavigList()$
             <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
                 <img id="cc" alt="Creative Commons License" src="/links/images/creative_commons_min.webp" />
             </a>
-
             <a rel="meengi" href="https://github.com/kosmoknot/meengi">
                 <img id="meengi" src="/links/images/meengi_light.png" />
             </a>
-
             <a rel="github" href="https://github.com/kosmoknot">
                 <img id="git" src="/links//images/github.webp" />
             </a>
-
             <a rel="neocities" href="https://neocities.org/site/kosmoknot">
                 <img id="neo" src="/links/images/neocities.webp" />
+            </a>
+                <a rel="mastodon" href="https://mas.to/@kosmoknot">
+                <img id="masto" src="/links/images/mastadon.png" />
             </a>
         </div>
         <div class="footer_text">
@@ -94,4 +94,10 @@ $NavigList()$
 </footer>
 
 </html>
-# 
+#
+
+# $hr():
+<div class="hrcls">
+<hr>
+</div>
+#
