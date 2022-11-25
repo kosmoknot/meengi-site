@@ -11,7 +11,9 @@
 #
 
 # $NavigList(items)
-<div class="NavigList">$$items$$</div>
+<div class="NavigList">$$items$$
+<div class="NavigItem"> <a href="Sitemap.html">Sitemap</a></div>
+</div>
 #
 
 # $NavigItem(name)
@@ -19,25 +21,29 @@
 #
 
 # $TreeMap(map)
-<ul>
+<ul style="list-style: none;">
 $$map$$
 </ul>
 #
 
 //This is the top level title can be customised to look different
 # $TreeMapTitle1(name,childMap)
-<li><a href="$$name$$.html">$$name$$</a>
-<ul>
+<li><details>
+<summary><a href="$$name$$.html">$$name$$</a></summary>
+<ul style="list-style: none;">
 $$childMap$$
 </ul>
+</details>
 #
 
 //This is used for everything except top level title can be customised to look different
 # $TreeMapTitle2(name,childMap)
-<li><a href="$$name$$.html">$$name$$</a>
-<ul>
+<li><details>
+<summary><a href="$$name$$.html">$$name$$</a></summary>
+<ul style="list-style: none;">
 $$childMap$$
 </ul>
+</details>
 #
 
 //<------ DO NOT DELETE THESE
@@ -55,6 +61,7 @@ $$childMap$$
     <script src="/links/script.js"></script>
 </head>
 <body>
+$NavigList()$
 <div class="bodyContainer">
 #
 
