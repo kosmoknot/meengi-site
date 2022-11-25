@@ -7,7 +7,7 @@
 #
 
 # $ChildListItem(name)
-<li><a href="$$name$$.html"><figure><img style="width: 150px;" src="/links/images/$$name$$.gif"></figure>$$name$$<caption></caption></a>
+<li><a href="$$name$$.html"><figure><img style="width:150px;" alt="$$name$$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$$name$$.png"></figure>$$name$$<caption></caption></a>
 #
 
 # $NavigList(items)
@@ -45,14 +45,14 @@ $$childMap$$
 # $Header():
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Digital garden of Anup">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <title>Meengi - $PageName()$ </title>
-    <link rel="icon" href="/links/images/logo.png" type="image/icon type">
+    <link rel="icon" href="/links/images/icon.png" type="image/icon type">
     <link href="/links/style.css" rel="stylesheet" type="text/css" media="all">
+    <script src="/links/script.js"></script>
 </head>
 <body>
 <div class="bodyContainer">

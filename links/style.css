@@ -1,10 +1,10 @@
 :root{
     --background:       #1d1f21;
     --backgroundlight:  #333;
-    --backgroundlightlight:#666;
+    --background2:      #114;
     --normaltext:       #c9cacc;
     --textdecor:        #2bbc8a;
-    --h1text:             white;
+    --h1text:            white;
 }
 
 html {
@@ -102,8 +102,8 @@ a:hover {
 
 .NavigItem{
     margin-left: 10px;
-    background-color: var(--backgroundlightlight);
-    border:1px solid #c9cacc;
+    background-color: var(--background2);
+    border:1px solid var(--normaltext);
     padding-left: 4px;
     padding-right: 4px;
     padding-bottom: 2px;
@@ -120,12 +120,12 @@ a:hover {
 
 footer {
     width: 100%;
-    background-color: #333;
+    background-color: var(--backgroundlight);
 }
 
 .footerContainer{
     width: 100%;
-    background-color: #333;
+    background-color: var(--backgroundlight);
 }
 
 
@@ -145,7 +145,7 @@ footer {
 
 .footer a {
     text-decoration: none;
-    color: #2bbc8a;
+    color: var(--textdecor);
 }
 
 .footer_text {
@@ -158,7 +158,7 @@ footer {
     flex-flow: row;
     flex-wrap: nowrap;
     justify-content: center;
-    color: #c9cacc;
+    color: var(--normaltext);
     width: 650px;
     height: 40px;
     align-items: center;

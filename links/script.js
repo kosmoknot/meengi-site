@@ -12,7 +12,7 @@ function link_search() {
   links = document.getElementsByTagName("li");
   for (var i = 0; i < links.length; i++) {
     var content = links[i].innerHTML.toUpperCase();
-    if (content.indexOf(filter) != -1 ) {
+    if (content.indexOf(filter) != -1) {
       links[i].style.display = "";
     } else {
       links[i].style.display = "none";
@@ -25,7 +25,7 @@ function log_search() {
   var filter = input.value.toUpperCase();
   details = document.getElementsByTagName("details");
   for (var i = 0; i < details.length; i++) {
-    var  detail = details[i].innerHTML.toUpperCase();
+    var detail = details[i].innerHTML.toUpperCase();
     if (detail.indexOf(filter) != -1) {
       details[i].style.display = "";
     } else {
@@ -36,12 +36,12 @@ function log_search() {
 
 function onHover() {
   let name = event.target.alt;
-  let path = "/images/" + name + ".gif";
+  let path = "/links/images/" + name + ".gif";
   event.target.src = path;
 }
 
 function onOut() {
   let name = event.target.alt;
-  let path = "/images/" + name + ".png";
+  let path = "/links/images/" + name + ".png";
   event.target.src = path;
 }
