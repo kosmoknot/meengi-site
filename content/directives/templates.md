@@ -21,14 +21,14 @@
 #
 
 # $TreeMap(map)
-<ul style="list-style: none;">
+<ul class="TreeMap" style="list-style: none;">
 $$map$$
 </ul>
 #
 
 //This is the top level title can be customised to look different
 # $TreeMapTitle1(name,childMap)
-<li><details>
+<li><details open>
 <summary><a href="$$name$$.html">$$name$$</a></summary>
 <ul style="list-style: none;">
 $$childMap$$
@@ -38,7 +38,7 @@ $$childMap$$
 
 //This is used for everything except top level title can be customised to look different
 # $TreeMapTitle2(name,childMap)
-<li><details>
+<li><details open>
 <summary><a href="$$name$$.html">$$name$$</a></summary>
 <ul style="list-style: none;">
 $$childMap$$

@@ -117,11 +117,10 @@ a:hover {
     color: var(--textdecor);
 }
 
-.NavigList{
-
-}
-
-   
+.TreeMap{
+    list-style: none;
+    font-size: 20px;
+}  
 
 footer {
     width: 100%;
@@ -190,6 +189,12 @@ footer {
 
 #neo {
     width: 47px;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+#masto {
+    width: 36px;
     margin-top: 12px;
     margin-left: 12px;
 }
