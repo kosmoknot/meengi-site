@@ -41,6 +41,7 @@ body {
     width: 650px;
     margin-left: auto;
     margin-right: auto;
+    text-align: left;
 }
 
 .index_text{
@@ -138,6 +139,19 @@ a:hover {
     font-size: 20px;
 }  
 
+blockquote{
+    text-align: justify;
+    font-style: italic;
+    padding-left: 10px;
+    border-left: 1px solid var(--normaltext);
+}
+summary{
+    font-style: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    margin-bottom: 10px;
+}
 footer {
     width: 100%;
     background-color: var(--backgroundlight);
