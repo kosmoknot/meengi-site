@@ -2,7 +2,7 @@
 #Logs
 #Experimentation
 #Articles
-#Gallary
+#Gallery
 #About
 
 ##Logs
