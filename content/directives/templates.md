@@ -17,7 +17,7 @@
 #
 
 # $NavigItem(name)
-<div class="NavigItem"><a href="$$name$$.html">$$name$$</a></div>=>
+<div class="NavigItem"><a href="$$name$$.html">$$name$$</a></div>
 #
 
 # $TreeMap(map)
@@ -99,5 +99,11 @@ $NavigList()$
 # $hr():
 <div class="hrcls">
 <hr>
+</div>
+#
+
+# $searchbox():
+<div style="text-align: center;">
+<input id="searchBox" placeholder="Search.." style="text-align: center; font-size: 18px;" oninput="log_search()">
 </div>
 #
