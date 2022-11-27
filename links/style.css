@@ -263,8 +263,6 @@ footer {
 
 .logs p{
     text-align: justify;
-    border-left: 1px solid var(--normaltext);
-    border-bottom: 1px solid var(--normaltext);
     padding-left: 10px;
     padding-bottom: 5px;
     margin-left: -4px;
