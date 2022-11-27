@@ -38,7 +38,7 @@ $$childMap$$
 
 //This is used for everything except top level title can be customised to look different
 # $TreeMapTitle2(name,childMap)
-<li><details open>
+<li><details open> 
 <summary><a href="$$name$$.html">$$name$$</a></summary>
 <ul style="list-style: none;">
 $$childMap$$
@@ -106,4 +106,32 @@ $NavigList()$
 <div style="text-align: center;">
 <input id="searchBox" placeholder="Search.." style="text-align: center; font-size: 18px;" oninput="log_search()">
 </div>
+#
+
+# $logsListStart(name):
+<h1>Logs - $$name$$</h1>
+$searchbox()$
+<div class="logs">
+<ol>
+#
+
+# $logsListEnd()
+</ol>
+</div>
+#
+
+# $logsItemStart(name,details)
+<li>
+<details>
+<summary>
+<ins>$$name$$</ins>
+<br>$$details$$
+</summary>
+<p>
+#
+
+# $logsItemEnd()
+</p>
+</details>
+</li>
 #

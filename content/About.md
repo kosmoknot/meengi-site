@@ -42,7 +42,7 @@ I am still not sure what this website will evolve into or when I will maintain i
 <details>
 <summary>Why static website?</summary>
 <p>
-Static websites display the same information no matter who visites or when they are visited. In that sense, they are dumb and low-tech, but the advantage of static websites is that anyone can inspect them, see how they are built, and ideally copy them.
+Static websites display the same information no matter who visites or when they visit. In that sense, they are dumb and low-tech, but the advantage of static websites is that anyone can inspect them, see how they are built, and ideally copy them.
 <br><br>
 Most websites today load dynamically, <i>"react"</i> to user inputs, and are unnecessarily bloated. I do not need to take so much space on the internet and cause an unnecessary increase in my carbon footprint. Hence I choose simpler, lighter, easy-to-imitate static websites.
 </p>
