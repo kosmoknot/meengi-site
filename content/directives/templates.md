@@ -1,13 +1,18 @@
 // $ChildList(ChildListItem) is a special template.It is used to render the grid.
 // Each item in ChildList is rendered as ChildListItem(name). Where name is automatically taken as page name.
-
+// $PageName()$ fetches the name of the current page.
 // DO NOT DELETE THESE ------>
-# $ChildList(items)
-<ul class="childlist">$$items$$</ul>
+
+// When calling childlist, "items" argument is automatically populated and should not be removed/replaced only pass extra arguments you have added manually when calling the childList like ChildList(5) if you want 5 columnCount
+# $ChildList(items,columnCount)
+<div class="childlist" style="grid-template-columns: repeat($$columnCount$$,auto);">
+$$items$$
+</div>
 #
 
 # $ChildListItem(name)
-<li><a href="$$name$$.html"><figure><img style="width:150px;" alt="$$name$$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$$name$$.png"></figure>$$name$$<caption></caption></a>
+<div><a href="$$name$$.html"><figure><img style="width:150px;" alt="$$name$$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$$name$$.png"></figure>$$name$$<caption></caption></a>
+</div>
 #
 
 # $NavigList(items)

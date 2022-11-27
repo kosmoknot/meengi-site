@@ -91,6 +91,8 @@ a:hover {
     text-align: center;
     font-size: 21px;
     list-style-type:none;
+    display: grid;
+    gap: 15px;
 }
 
 .childlist li{
