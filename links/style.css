@@ -139,10 +139,15 @@ a:hover {
     font-size: 20px;
 }  
 
+.TreeMap summary{
+    text-decoration: none;
+}
+
 blockquote{
+    margin-left: -1px;
     text-align: justify;
     font-style: italic;
-    padding-left: 10px;
+    padding-left: 8px;
     border-left: 1px solid var(--normaltext);
 }
 summary{

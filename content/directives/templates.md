@@ -12,16 +12,16 @@
 
 # $NavigList(items)
 <div class="NavigList">$$items$$
-<div class="NavigItem"> <a href="Sitemap.html">Sitemap</a></div>
+<div class="NavigItem"><a href="Sitemap.html">Sitemap</a></div>
 </div>
 #
 
 # $NavigItem(name)
-<div class="NavigItem"><a href="$$name$$.html">$$name$$</a></div>
+<div class="NavigItem"><a href="$$name$$.html">$$name$$</a></div>=>
 #
 
 # $TreeMap(map)
-<ul class="TreeMap" style="list-style: none;">
+<ul class="TreeMap">
 $$map$$
 </ul>
 #

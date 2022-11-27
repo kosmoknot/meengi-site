@@ -17,11 +17,11 @@ $hr()$
 <br>Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price.<br>
 <br>To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.” We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom, to show we do not mean the software is gratis.
 </blockquote>
-<p>&emsp; source: <a href="https://www.gnu.org/philosophy/free-sw.html">GNU - What is Free Software?</a><br><br>
+<p>source: <a href="https://www.gnu.org/philosophy/free-sw.html">GNU - What is Free Software?</a><br><br>
 
 I have been a big admirer of the FOSS (Free and Open Source Software) community for its commitment to personal liberty, inclusive human progress, and drive for innovation.<br><br>
 
-AApart from grandiose sounding words and principles, FOSS brings a noticeable positive change in my personal life. Linux gives me the ability to learn computing without a barrier to entry,  <a href="https://wiki.archlinux.org/">Arch Wiki</a>  guides me through daunting tasks, and <a href="https://www.mozilla.org/en-US/about/manifesto/">Firefox</a> keeps my privacy free of Google's control.<br><br>
+Apart from grandiose sounding words and principles, FOSS brings a noticeable positive change in my personal life. Linux gives me the ability to learn computing without a barrier to entry,  <a href="https://wiki.archlinux.org/">Arch Wiki</a>  guides me through daunting tasks, and <a href="https://www.mozilla.org/en-US/about/manifesto/">Firefox</a> keeps my privacy free of Google's control.<br><br>
 
 I consider all the libre software to be a collective achievement of humankind, past, present, and future, which not only deserves the due celebration, but also warrants its rapid expansion and adoption.<br><br>
 
@@ -32,16 +32,20 @@ I feel far happier paying a small fee to a <a href="https://www.gnome.org/">GNOM
 <details>
 <summary>Why digital garden?</summary>
 <p>
-I wanted this website NOT to be a <i>"showpiece"</i> of my skills but a place where I actively experiment and share stuff I care about.<br><br>
-Partly due to my aversion to social media and partly beacuse of my attraction towards <a href="https://en.wikipedia.org/wiki/Lifelog">memex</a> sites, I decided to also integrate my activity logs like movies watched, anime reviews over here.<br><br>
+I wanted this website not to be a <i>"showpiece"</i> of my skills but a place where I actively experiment and share stuff I care about.<br><br>
+Partly due to my aversion to social media and partly because of my attraction towards  <a href="https://en.wikipedia.org/wiki/Lifelog">memex</a> sites, I decided to also integrate my activity logs like movies watched, anime reviews over here.<br><br>
 
-I am still not sure what this website will evolve into or until when I will maintain it. Just like a garden in real life it will take its own form, and I will try my best to tend to its needs.
+I am still not sure what this website will evolve into or when I will maintain it. Just like a garden in real life, it will take its form, and I will try my best to tend to its needs.
 </p>
 </details>
 
 <details>
 <summary>Why static website?</summary>
-
+<p>
+Static websites display the same information no matter who visites or when they are visited. In that sense, they are dumb and low-tech, but the advantage of static websites is that anyone can inspect them, see how they are built, and ideally copy them.
+<br><br>
+Most websites today load dynamically, <i>"react"</i> to user inputs, and are unnecessarily bloated. I do not need to take so much space on the internet and cause an unnecessary increase in my carbon footprint. Hence I choose simpler, lighter, easy-to-imitate static websites.
+</p>
 </details>
 
 <details>
