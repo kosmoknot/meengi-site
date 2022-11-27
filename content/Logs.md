@@ -3,5 +3,5 @@ $Header()$
 <div class="description">
 A semi-detailed account of random stuff.
 </div>
-$ChildList()$
+$ChildList(3)$
 $Footer()$

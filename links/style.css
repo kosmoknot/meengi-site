@@ -55,6 +55,8 @@ body {
     margin-right: auto;
     color: var(--normaltext);
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .content{
@@ -318,4 +320,8 @@ footer {
         margin-right: auto;
         overflow: visible;
     }
+    .childlist{
+        display:block;
+    }
+
 }

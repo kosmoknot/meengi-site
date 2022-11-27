@@ -120,12 +120,12 @@ $searchbox()$
 <ol>
 #
 
-# $logsListEnd()
+# $logsListEnd():
 </ol>
 </div>
 #
 
-# $logsItemStart(name,details)
+# $logsItemStart(name,details):
 <li>
 <details>
 <summary>
@@ -135,8 +135,12 @@ $searchbox()$
 <p>
 #
 
-# $logsItemEnd()
+# $logsItemEnd():
 </p>
 </details>
 </li>
+#
+
+# $link(name,href):
+<a href="$$href$$">$$name$$</a>
 #
