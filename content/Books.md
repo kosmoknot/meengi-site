@@ -1,6 +1,6 @@
 $Header()$
 
-$logsListStart(Books,A brief account of Books and Manga I have read<br>Count : 7)$
+$logsListStart(Books,A brief account of Books and Manga I have read)$
 
 
 $logsItemStart(Kingdom Manga,Yasuhisa Hara<br>Translated from Japanese to English<br>First Published: 2006<br>Read date: Ongoing<br>8/10)$
@@ -25,7 +25,7 @@ A typical Murakami tale that surprisingly lacks fantastical elements. This book 
 Also I felt this book, while being very similar to the Norwegian wood, to be better than Norwegian wood.
 $logsItemEnd()$
 
-$logsItemStart(Berserk,Kentaro Miura<br>Translated from Japanese to English<br>First Published: 1989<br>Read date: Ongoing??<br>10/10)$
+$logsItemStart(Berserk Manga,Kentaro Miura<br>Translated from Japanese to English<br>First Published: 1989<br>Read date: Ongoing??<br>10/10)$
 RIP Miura. He died while I was about to finish the berserk and I was hoping for him to get better in order to finish it. No other death of a public figure comes close to the shock I felt. I still believe that Berserk is perfect as it is and ends on a satisfying note (Beware! I have grown too used to cliffhanger endings to movies.).
 <br><br>
 Berserk makes me feel things no other Manga has managed before and it is one of the bests for that very reason. I have read/watched a lot of fiction, and Berserk will still be on the top-tier list among all those mediums.
@@ -33,6 +33,10 @@ $logsItemEnd()$
 
 $logsItemStart(Sapiens,Yuval Harari<br>English<br>First Published: 2014<br>Read date: ??/05/2022<br>10/10)$
 A surprisingly easy read for such an info-packed non-fiction book. It takes the reader on a journey through time with a scientific outlook. I feel very biased towards the book, for it affirms my biases of nihilism and absurdism. And it makes me happy knowing that the author probably shares them too.
+$logsItemEnd()$
+
+$logsItemStart(Vagabond Manga,Takehiko Inoue<br>Translated from Japanese to English<br>First Published: 1998<br>Read date: Ongoing??<br>9/10)$
+Started this after completing Berserk, as Vagabond is considered another classic masterpiece. I have mixed feelings about it, but it was good for most parts.
 $logsItemEnd()$
 
 $logsItemStart(Men without women,Haruki Murakami <br>Translated from Japanese to English<br>First Published: 2014<br>Read date: 25/06/2022<br>9/10)$

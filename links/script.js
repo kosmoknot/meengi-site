@@ -45,3 +45,18 @@ function onOut() {
   let path = "/links/images/" + name + ".png";
   event.target.src = path;
 }
+
+function showLogCount() {
+  let elem = document.getElementById("logsList");
+  if (typeof elem !== "undefined" && elem !== null) {
+    let count = elem.childElementCount;
+    let countElem = document.getElementById("logsCount");
+    if (
+      typeof count !== "undefined" &&
+      typeof countElem !== "undefined" &&
+      countElem !== null
+    ) {
+      countElem.innerHTML = "Count: " + count;
+    }
+  }
+}

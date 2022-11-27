@@ -117,15 +117,19 @@ $NavigList()$
 <h1>Logs - $$name$$</h1>
 <div class="description">
 $$description$$
+<p id="logsCount"></p>
 </div>
 $searchbox()$
 <div class="logs">
-<ol>
+<ol id="logsList">
 #
 
 # $logsListEnd():
 </ol>
 </div>
+<script>
+showLogCount()
+</script>
 #
 
 # $logsItemStart(name,details):
