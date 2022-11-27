@@ -1,7 +1,5 @@
 $Header()$
 <h1>Logs</h1>
-<div class="description">
-A semi-detailed account of random stuff.
-</div>
+$description(A semi-detailed account of random stuff.)$
 $ChildList(3)$
 $Footer()$

@@ -113,8 +113,11 @@ $NavigList()$
 </div>
 #
 
-# $logsListStart(name):
+# $logsListStart(name,description):
 <h1>Logs - $$name$$</h1>
+<div class="description">
+$$description$$
+</div>
 $searchbox()$
 <div class="logs">
 <ol>
@@ -143,4 +146,10 @@ $searchbox()$
 
 # $link(name,href):
 <a href="$$href$$">$$name$$</a>
+#
+
+# $description(content):
+<div class="description">
+$$content$$
+</div>
 #
