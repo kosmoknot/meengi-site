@@ -7,4 +7,4 @@ A $link(digital garden,https://joelhooks.com/digital-garden)$ to curate
 $link(my,/site/about.html)$ projects, writings, ideas, and activity logs.
 </div>
 $ChildList(3)$
-2$Footer()$
+$Footer()$

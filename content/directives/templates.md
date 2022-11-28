@@ -142,6 +142,34 @@ showLogCount()
 <p>
 #
 
+# $logsBooksItemStart(name,author,language,published,readDate,rating)
+<li>
+<details>
+<summary>
+<ins>$$name$$</ins>
+<br>$$author$$
+<br>$$language$$
+<br>First Published: $$published$$
+<br>Read Date: $$readDate$$
+<br>$$rating$$/10
+</summary>
+<p>
+#
+
+# $logsMoviesItemStart(name,director,language,released,watchDate,rating)
+<li>
+<details>
+<summary>
+<ins>$$name$$</ins>
+<br>Director: $$director$$
+<br>$$language$$
+<br>Released: $$released$$
+<br>Watch date: $$watchDate$$
+<br>$$rating$$/10
+</summary>
+<p>
+#
+
 # $logsItemEnd():
 </p>
 </details>
