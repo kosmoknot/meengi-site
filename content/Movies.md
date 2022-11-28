@@ -119,6 +119,10 @@ $logsMoviesItemStart(Death to 2020 ,Al Campbell / Alice Mathias,English,2020,15-
 A worthy documentry with a good mocking.
 $logsItemEnd()$
 
+$logsMoviesItemStart(Barry Lyndon,Stanley Kubrick,English,1975,15-08-2021,10)$
+Barry Lyndon is a slow paced movie where you can pretty much guess what is going to happen with some exceptions. The brilliance lies in the way those scenes unfold and the way they are depicted on screen. It makes you feel the stupidity of that time and wonder how will our current traditions and zeitgeist will look after 300 years of progress.
+$logsItemEnd()$
+
 
 $logsListEnd()$
 $Footer()$
