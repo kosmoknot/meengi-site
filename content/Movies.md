@@ -2,7 +2,6 @@ $Header()$
 
 $logsListStart(Movies,A summary of Movies and Theatre Plays)$
 
-
 $logsMoviesItemStart(The Ballad of Buster Scruggs,Coen Brothers,English,2018,16-01-2021,9)$
 Expectations are always high for a Cohen bros film, and this one does deliver on them. After watching a few of their films, the style becomes familiar. Ballad of Buster Scruggs has a lot of that absurd randomnesses, typical of Cohens, along with some heartfelt moments. There is much foreshadowing with poems like Ozymandias or with the clothing choices, but it doesn't always lead to expected outcomes. Starting with a fast-paced, upbeat, blood-filled, and satirical short, the movie slows down little by little, to a bloodless frightful conversation, while exploring a lot of things on the way. Nature is harsh, vast, and at its full glory, making characters appear more helpless than they should be.
 $logsItemEnd()$
@@ -59,7 +58,7 @@ $logsMoviesItemStart(4 Months 3 Weeks and 2 Days,Cristian Mungiu,Romanian,2007,1
 A slow-paced character study that steadily unfolds situations around protagonists beautifully. The movie takes you to the 1980s in Nicolae Ceaușescu’s Romania and explore's the era through 2 women trying to abort an unwanted pregnancy. The socialist dictatorship and the impact it had on the lives of common people are beautifully shown without saying much directly. The bleakness of the country is readily apparent, economic mismanagement and socialist weirdness stand out anytime an official with even a minute of authority speaks. The movie is also shot through the perspective of college youth, hopefully dreaming of better lives in a dystopian present, showing the contrast between their aspirations and reality.
 $logsItemEnd()$
 
-$logsMoviesItemStart(Thappad,Iram Haq,Hindi,2020,12-02-2021,8)$
+$logsMoviesItemStart(Thappad,Anubhav Sinha,Hindi,2020,12-02-2021,8)$
 This is a unique film that actually benefits from its typical Bollywood style by making it more approachable to its target audience. There is much drama that surprisingly serves a purpose in the film and weaves all the story threads together while delivering a coherent and meaningful narrative. Rather than taking a route of oversimplification into good vs evil categories, the movie introduces a large cast of side characters and explores nuances through their web of interconnected experiences and realizations while also making most of them relatable and likable. In a Bollywood mainstream filled to the brim with toxic masculinity, this feels like a fresh breeze of rational criticism of the status quo which is much welcome.
 $logsItemEnd()$
 
@@ -119,8 +118,65 @@ $logsMoviesItemStart(Death to 2020 ,Al Campbell / Alice Mathias,English,2020,15-
 A worthy documentry with a good mocking.
 $logsItemEnd()$
 
-$logsMoviesItemStart(Barry Lyndon,Stanley Kubrick,English,1975,15-08-2021,10)$
+$logsMoviesItemStart(Borat Subsequent Moviefilm,Jason Woliner / Sacha Baron Cohen,English,2020,15-08-2021,10)$
+Watching Borat and discovering the brilliance of Sacha Baron Cohen was marvelous. After watching Borat, all I could do was find more of that semi-staged comedy.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Barry Lyndon,Stanley Kubrick,English,1975,26-07-2021,9)$
 Barry Lyndon is a slow paced movie where you can pretty much guess what is going to happen with some exceptions. The brilliance lies in the way those scenes unfold and the way they are depicted on screen. It makes you feel the stupidity of that time and wonder how will our current traditions and zeitgeist will look after 300 years of progress.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Reservoir Dogs,Quentin Tarantino,English,1992,10-10-2021,10)$
+You can see the Tarantino style, sharp dialogues, constant underlying tension, masterful use of music, and explosive violence. It hardly feels like the first movie of a novice director but more like a magnum opus of a master. I can see that torture scene with that calm af song in my head around 14 months after watching the film. (Yes I am lazy, I upload stuff late on my site.)
+$logsItemEnd()$
+
+$logsMoviesItemStart(Sairat,Nagraj Manjule,Marathi,2016,??-10-2021,9)$
+Damn this was amazing. Skillful subversion of tropes, gender roles, expectations. The complex social issues was presented in an approachable way. loved it. This reminded me of Bombay.
+$logsItemEnd()$
+
+
+$logsMoviesItemStart(Lage raho munna bhai,Rajkumar Hirani,Hindi,2006,30-09-2021,9)$
+A much-needed Indian film that uses comedy to provoke Indians to think. In times when Godse is openly praised, it is refreshing to see the ideology of Gandhi brought to modern times. Gandhi is much criticized for not answering the question, of what to do in face of a violent oppressor who rejects Ahimsa. Should we die by surrendering or fight back and sacrificing our values? The film lightly touches on this question but it's not bothered with answering it. Munna bhai was not a philosophical film but it raised the same questions wrapped under comedy. You might hate Gandhi but this will surely make you think.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Raman Raghav 2.0,Anurag Kashyap,Hindi,2016,30-09-2021,9)$
+Didn't know about psycho Raman neither did I think that something so ugly and disgusting could be made in India. This one was filled with Vibhatsa rasa and it could have been better if not for the Indian censor board. Damn, I hate that board. Reminds me of Haramkhor but that film had a slightly sympathetic side. Raman Raghav sets out to remind you that there is always an ugly side inside us. And we should be careful to not let it out. Maybe not true of everyone but I surely felt that way.
+$logsItemEnd()$
+
+$logsMoviesItemStart(8 miles,Curtis Hanson,English,2002,??-10-2021,8)$
+This was far better than I thought it would be. I was waiting for a happy ending and things ending on a melancholic note was a pleasant surprise.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Sooryavanshi,Rohit Shetty,Hindi,2021,??-10-2021,5)$
+Lol, a shit show of comedy and action. Had a lot of fun mocking it in the theatre.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Dune: Part One,Denis Villeneuve,English,2021,??-10-2021,8)$
+Amazing ambinace, good story, decent acting. Wanna makes me read the book.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Quo Vadis Aida?,Jasmila Zbanic,Serbo-Croatian,2020,23-12-2021,8)$
+Wanted to do a oscar swipe for quite a while, finnaly got around to it. Quite nice movie. Also got around to searching Bosnian genocide.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Sardar Udham,Shoojit Sircar,Hindi,2021,24-12-2021,10)$
+This was something exciting; a very happy outlier avoiding glorification and showing what it took to protest, to challenge the system.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Spider-Man: No Way Home,Jon Watts,English,2021,??-12-2021,6)$
+Pretty good nostalgia trip. Watched in the theater, and in retrospect Matrix 4 was a better choice.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Matrix Resurrections,Lana Wachowski,English,2021,??-12-2021,7)$
+This didn't feel coherent. Agent Smith no longer feels menacing, the style feels off, fight scenes are comical at times, and rules are broken and changed. But I loved the self-aware moments.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Matrix Resurrections,Lana Wachowski,English,2021,??-12-2021,7)$
+This didn't feel coherent. Agent Smith no longer feels menacing, the style feels off, fight scenes are comical at times, and rules are broken and changed. But I loved the self-aware moments.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Watchmen,Zack Snyder,English,2009,14-01-2022,8)$
+I love subversion of superhero genre and Watchmen is one of the best ones. I just watched an unnecessarily long cut. After watching the watchmen tv show I finally was ready to watch this 3.5 hrs long movie. The song at the starting was great. The gritty and dark ambiance was delightful.
 $logsItemEnd()$
 
 
