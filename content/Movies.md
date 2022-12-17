@@ -171,12 +171,44 @@ $logsMoviesItemStart(The Matrix Resurrections,Lana Wachowski,English,2021,??-12-
 This didn't feel coherent. Agent Smith no longer feels menacing, the style feels off, fight scenes are comical at times, and rules are broken and changed. But I loved the self-aware moments.
 $logsItemEnd()$
 
+$logsMoviesItemStart(The Big Lebowski,Ethan Coen / Joel Coen,English,1998,10-01-2022,9)$
+Not as dark as other Cohen brother movies but the parallels inside the movie were entertaining.
+$logsItemEnd()$
+
 $logsMoviesItemStart(Snowden,Oliver Stone,English,2016,14-01-2022,8)$
 This is something I would like to do in my life but I don't know if i can.
 $logsItemEnd()$
 
 $logsMoviesItemStart(Watchmen,Zack Snyder,English,2009,14-01-2022,8)$
 I love subversion of superhero genre and Watchmen is one of the best ones. I just watched an unnecessarily long cut. After watching the watchmen tv show I finally was ready to watch this 3.5 hrs long movie. The song at the starting was great. The gritty and dark ambiance was delightful.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Requiem for a Dream,Darren Aronofsky,English,2000,14-01-2022,9)$
+That was trippy, loved it though.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Delhi belly,Abhinay Deo,Hindi,2011,12-03-2022,7)$
+Was expecting something awesome but received disappointment instead.
+$logsItemEnd()$
+
+$logsMoviesItemStart( Udta Punjab,Abhishek Chaubey,Hindi,2016,13-03-2022,8)$
+The suspension of disbelief and a positive ending made it into a digestible movie but also a bit less enjoyable for me. Still pretty good overall.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Power of the Dog,Jane Campion,English,2021,??-03-2022,8)$
+A well woven drama.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Batman,Matt Reeves,English,2021,??-03-2022,7)$
+Didn't like it. Too many plot holes and too much of unnecessary content
+$logsItemEnd()$
+
+$logsMoviesItemStart(Roja,Mani Ratnam,English,1992,13-05-2022,9)$
+This movie was way too spoiled for me. Fast forwarded most of it. Too much ratra Prem for my taste. 9/10 just for nostalgia and for the awesome triology.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Emperor's New Groove,Matt Reeves,English,2000,14-05-2022,8)$
+Well that doesn't feel like Disney! Had a good laugh.
 $logsItemEnd()$
 
 
