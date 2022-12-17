@@ -171,8 +171,8 @@ $logsMoviesItemStart(The Matrix Resurrections,Lana Wachowski,English,2021,??-12-
 This didn't feel coherent. Agent Smith no longer feels menacing, the style feels off, fight scenes are comical at times, and rules are broken and changed. But I loved the self-aware moments.
 $logsItemEnd()$
 
-$logsMoviesItemStart(The Matrix Resurrections,Lana Wachowski,English,2021,??-12-2021,7)$
-This didn't feel coherent. Agent Smith no longer feels menacing, the style feels off, fight scenes are comical at times, and rules are broken and changed. But I loved the self-aware moments.
+$logsMoviesItemStart(Snowden,Oliver Stone,English,2016,14-01-2022,8)$
+This is something I would like to do in my life but I don't know if i can.
 $logsItemEnd()$
 
 $logsMoviesItemStart(Watchmen,Zack Snyder,English,2009,14-01-2022,8)$
