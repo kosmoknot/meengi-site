@@ -6,6 +6,7 @@
     --normaltext:            #c9cacc;
     --textdecor:             #2bbc8a;
     --h1text:                white;
+    --time:                    #7e7e7e
 }
 
 html {
@@ -36,6 +37,17 @@ body {
     -ms-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+}
+
+time{
+    font-size: 16px;
+    color: var(--time);
+    vertical-align: baseline;
+}
+
+.article p{
+    font-size: 16px;
+    text-align: justify;
 }
 
 .bodyContainer {
@@ -151,7 +163,7 @@ a:hover {
 
 }
 
-.TreeMap summary a{
+.TreeMap a{
     text-decoration: none;
 }
 
@@ -159,7 +171,7 @@ a:hover {
     list-style: none;
 }
 
-#TreeMapTopLvl summary{
+#TreeMapTopLvl a{
     font-size: 20px;
 }
 
@@ -168,17 +180,13 @@ a:hover {
     border: 5px solid var(--background);
 }
 
-#TreeMapNotTopLvl summary{
+#TreeMapNotTopLvl a{
     font-size: 18px;
 }
 
 #TreeMapNotTopLvl li:hover {
     background-color: var(--backgroundLight);
     border: 5px solid var(--backgroundHighlight);
-}
-
-.TreeMap summary{
-    text-decoration: none;
 }
 
 blockquote{
@@ -248,9 +256,11 @@ footer {
     font-size: 20px;
     border-radius: 10px;
 }
+
 .logs{
     margin-top: 30px;
 }
+
 .logs ol {
     list-style: none;
     display: flex;
@@ -264,6 +274,7 @@ footer {
 .logs p {
     margin-left: 25px;
 }
+
 .logs summary {
     font-size: 16px;
     color: var(--normaltext);
@@ -301,9 +312,11 @@ footer {
     padding-bottom: 5px;
     margin-left: -4px;
 }
+
 .logs ins {
     color: var(--h1text);
 }
+
 #logsCount{
     font-size: 16px;
 }

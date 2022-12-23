@@ -34,22 +34,18 @@ $$map$$
 
 //This is the top level title can be customised to look different
 # $TreeMapTitle1(name,childMap)
-<li id="TreeMapTopLvl"><details open>
-<summary><a href="$$name$$.html">$$name$$</a></summary>
+<li id="TreeMapTopLvl"><a href="$$name$$.html">$$name$$</a>
 <ul>
 $$childMap$$
 </ul>
-</details>
 #
 
 //This is used for everything except top level title can be customised to look different
 # $TreeMapTitle2(name,childMap)
-<li id="TreeMapNotTopLvl"><details open>
-<summary><a href="$$name$$.html">$$name$$</a></summary>
+<li id="TreeMapNotTopLvl"><a href="$$name$$.html">$$name$$</a>
 <ul>
 $$childMap$$
 </ul>
-</details>
 #
 
 //<------ DO NOT DELETE THESE
@@ -185,4 +181,17 @@ showLogCount()
 <div class="description">
 $$content$$
 </div>
+#
+
+# $TitleDate(date):
+<h1>$PageName()$</h1>
+Date: <time>$$date$$</time><br>
+#
+
+# $ArticleStart():
+<div class ="article"><p>
+#
+
+# $ArticleEnd():
+</p></div>
 #
