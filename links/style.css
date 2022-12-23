@@ -281,7 +281,7 @@ footer {
 }
 
 .logs summary:hover {
-    background-color: var(--backgroundLightHover);;
+    background-color: var(--backgroundHighlight);;
 }
 
 .logs summary ins {
