@@ -34,9 +34,9 @@ $$map$$
 
 //This is the top level title can be customised to look different
 # $TreeMapTitle1(name,childMap)
-<li><details open>
+<li id="TreeMapTopLvl"><details open>
 <summary><a href="$$name$$.html">$$name$$</a></summary>
-<ul style="list-style: none;">
+<ul>
 $$childMap$$
 </ul>
 </details>
@@ -44,9 +44,9 @@ $$childMap$$
 
 //This is used for everything except top level title can be customised to look different
 # $TreeMapTitle2(name,childMap)
-<li><details open> 
+<li id="TreeMapNotTopLvl"><details open>
 <summary><a href="$$name$$.html">$$name$$</a></summary>
-<ul style="list-style: none;">
+<ul>
 $$childMap$$
 </ul>
 </details>

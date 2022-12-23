@@ -1,10 +1,11 @@
 :root{
-    --background:       #1d1f21;
-    --backgroundlight:  #333;
-    --background2:      #114;
-    --normaltext:       #c9cacc;
-    --textdecor:        #2bbc8a;
-    --h1text:            white;
+    --background:            #1d1f21;
+    --backgroundlight:       #333;
+    --backgroundLightHover:  #444;
+    --backgroundHighlight:   #222;
+    --normaltext:            #c9cacc;
+    --textdecor:             #2bbc8a;
+    --h1text:                white;
 }
 
 html {
@@ -128,7 +129,7 @@ a:hover {
 
 .NavigItem{
     margin-left: 10px;
-    background-color: var(--background2);
+    background-color: var(--backgroundHighlight);
     border:1px solid var(--normaltext);
     padding-left: 4px;
     padding-right: 4px;
@@ -138,10 +139,43 @@ a:hover {
     color: var(--textdecor);
 }
 
-.TreeMap{
+.TreeMap li{
     list-style: none;
-    font-size: 20px;
+    background-color: var(--backgroundlight);
+    border: 5px solid var(--background);
+    margin:10px;
+    padding-left:10px;
 }  
+
+.TreeMap li:hover {
+
+}
+
+.TreeMap summary a{
+    text-decoration: none;
+}
+
+.TreeMap ul{
+    list-style: none;
+}
+
+#TreeMapTopLvl summary{
+    font-size: 20px;
+}
+
+#TreeMapTopLvl li:hover {
+    background-color: var(--backgroundHighlight);
+    border: 5px solid var(--background);
+}
+
+#TreeMapNotTopLvl summary{
+    font-size: 18px;
+}
+
+#TreeMapNotTopLvl li:hover {
+    background-color: var(--backgroundLight);
+    border: 5px solid var(--backgroundHighlight);
+}
 
 .TreeMap summary{
     text-decoration: none;
@@ -233,7 +267,7 @@ footer {
 .logs summary {
     font-size: 16px;
     color: var(--normaltext);
-    background-color: #333;
+    background-color:var(--backgroundlight);
     margin-left: auto;
     margin-right: auto;
     border-radius: 8px;
@@ -247,7 +281,7 @@ footer {
 }
 
 .logs summary:hover {
-    background-color: #444;
+    background-color: var(--backgroundLightHover);;
 }
 
 .logs summary ins {
