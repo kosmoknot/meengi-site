@@ -1,5 +1,7 @@
 $Header()$
 
+$Title()$
+
 $TreeMapPartial()$
 
 $Footer()$

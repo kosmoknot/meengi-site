@@ -27,25 +27,33 @@ $$items$$
 
 //Use TreeMapPartial to get treemap starting from current node
 # $TreeMap(map)
-<ul class="TreeMap">
+<ul class="tree">
+<li>
 $$map$$
+</li>
 </ul>
 #
 
 //This is the top level title can be customised to look different
 # $TreeMapTitle1(name,childMap)
-<li id="TreeMapTopLvl"><a href="$$name$$.html">$$name$$</a>
+<li>
+<input type="checkbox" id="$$name$$" />
+<label class="tree_label" for="$$name$$"><a style="font-weight: bold;" href="$$name$$.html">$$name$$</a></label>
 <ul>
 $$childMap$$
 </ul>
+</li>
 #
 
 //This is used for everything except top level title can be customised to look different
 # $TreeMapTitle2(name,childMap)
-<li id="TreeMapNotTopLvl"><a href="$$name$$.html">$$name$$</a>
+<li>
+<input type="checkbox" id="$$name$$" />
+<label class="tree_label" for="$$name$$"><a href="$$name$$.html">$$name$$</a></label>
 <ul>
 $$childMap$$
 </ul>
+</li>
 #
 
 //<------ DO NOT DELETE THESE
@@ -194,4 +202,10 @@ Date: <time>$$date$$</time><br>
 
 # $ArticleEnd():
 </p></div>
+#
+
+# $Title():
+<img style="width:150px;" alt="$PageName()$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$PageName()$.png">
+<br>
+<h1>$PageName()$</h1>
 #

@@ -151,44 +151,6 @@ a:hover {
     color: var(--textdecor);
 }
 
-.TreeMap li{
-    list-style: none;
-    background-color: var(--backgroundlight);
-    border: 5px solid var(--background);
-    margin:10px;
-    padding-left:10px;
-}  
-
-.TreeMap li:hover {
-
-}
-
-.TreeMap a{
-    text-decoration: none;
-}
-
-.TreeMap ul{
-    list-style: none;
-}
-
-#TreeMapTopLvl a{
-    font-size: 20px;
-}
-
-#TreeMapTopLvl li:hover {
-    background-color: var(--backgroundHighlight);
-    border: 5px solid var(--background);
-}
-
-#TreeMapNotTopLvl a{
-    font-size: 18px;
-}
-
-#TreeMapNotTopLvl li:hover {
-    background-color: var(--backgroundLight);
-    border: 5px solid var(--backgroundHighlight);
-}
-
 blockquote{
     margin-left: -1px;
     text-align: justify;
@@ -392,7 +354,11 @@ footer {
 .tree {
     margin: 1em;
     list-style: none;
-    font-size: 20px;
+}
+
+.tree a{
+    font-size: 18px;
+    text-decoration: none;
 }
 
 .tree input {
