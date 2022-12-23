@@ -72,7 +72,7 @@ time{
     margin-bottom: 20px;
 }
 
-.content{
+.aboutContent{
     text-align: justify;
 }
 
@@ -372,13 +372,16 @@ footer {
         margin-right: auto;
     }
     .bodyContainer {
-        width: 80%;
+        width: 95%;
         margin-left: auto;
         margin-right: auto;
         overflow: visible;
     }
     .childlist{
         display:block;
+    }
+    .NavigList{
+        flex-direction: column-reverse;
     }
 
 }

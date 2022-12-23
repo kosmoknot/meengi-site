@@ -1,5 +1,5 @@
 $Header()$
-<div class="content">
+<div class="aboutContent">
 <h2>About Me</h2>
 Hello, I'm Anup and I maintain this website in my free time.<br> <br> I am working as R&D engineer and enjoy working on varied projects. Some of which you can find here. <br> <br>You could treat this as a
 personal database of my life. This website is no way complete and shall never will be, please expect unfinished
