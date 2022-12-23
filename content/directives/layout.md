@@ -15,8 +15,12 @@
 
 ##Articles
 #Technical
-#Non_Technical
+#Non Technical
 #Resources
+#Lists
 
 ##About
 #Sitemap
+
+##Non Technical
+#Why and how I log

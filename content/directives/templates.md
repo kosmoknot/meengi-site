@@ -3,7 +3,7 @@
 // $PageName()$ fetches the name of the current page.
 // DO NOT DELETE THESE ------>
 
-// When calling childlist, "items" argument is automatically populated and should not be removed/replaced only pass extra arguments you have added manually when calling the childList like ChildList(5) if you want 5 columnCount
+// When calling childlist, "items" argument is automatically populated and should not be removed/replaced only pass extra arguments you have added manually when calling the childList like ChildList(5) if you want 5 columnCount in this case
 # $ChildList(items,columnCount)
 <div class="childlist" style="grid-template-columns: repeat($$columnCount$$,auto);">
 $$items$$
@@ -25,6 +25,7 @@ $$items$$
 <div class="NavigItem"><a href="$$name$$.html">$$name$$</a></div>
 #
 
+//Use TreeMapPartial to get treemap starting from current node
 # $TreeMap(map)
 <ul class="TreeMap">
 $$map$$
