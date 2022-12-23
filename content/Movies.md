@@ -211,6 +211,81 @@ $logsMoviesItemStart(The Emperor's New Groove,Matt Reeves,English,2000,14-05-202
 Well that doesn't feel like Disney! Had a good laugh.
 $logsItemEnd()$
 
+$logsMoviesItemStart(The Invention of Lying,Ricky Gervais / Matthew Robinson,English,2009,??-05-2022,7)$
+Ricky Gervais is a treat to watch.
+$logsItemEnd()$
+
+$logsMoviesItemStart(What is a women,Justin Folk,English,2022,9-6-2022,8)$
+The bias was subtle but obvious. The arguments felt fun to listen to, though some of the mysogynist stuff was screaming at me from the screen. Good exercise at engaging the other side from across the ponds.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Everything Everywhere All at Once,Dan Kwan / Daniel Scheinert,English,2022,9-6-2022,8)$
+A quite enjoyable movie which stays entertaining while staying creative.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Raatchasan,Ram Kumar,Tamil,2018,17-6-2022,9)$
+End felt a bit too Bollywoody but was good overall. The crazy edits made it very enjoyable.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Vice,Adam McKay,English,2018,21-7-2022,8)$
+Loved the vibe, presentation and acting.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Prisoners,Denis Villeneuve,English,2013,29-7-2022,8)$
+Pretty interesting turn of events.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Handmaiden,Park Chan-wook,Korean,2016,31-7-2022,9)$
+Erotic story filled with intrigue and solid direction and acting. It uses the erotica, nudity and gore to express themes much wider and leaves a lasting remark. Also the beads became bells and the snake got chopped down, not so overt yet not so subtle .
+$logsItemEnd()$
+
+$logsMoviesItemStart(American hustle,David O. Russell,English,2013,31-7-2022,7)$
+A bit corny and a lot of chaos.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Roman Holiday,David O. Russell,English,1953,06-7-2022,8)$
+Apart from dubious underage romance it was wonderful.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Bad Luck Banging or Loony Porn,Radu Jude,Romanian,2021,21-9-2022,9)$
+Oh my God i didn't expect such a heavy dose of philosophy. And such a thoughtful introduction to a new culture.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Awaara,Raj Kapoor,Hindi,1951,22-9-2022,8)$
+The stark difference in the movie style felt jarring. But a nice movie which did the social commentary correctly and effectively. No wonder Raj Kapoor was popular.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Dogtooth,Yorgos Lanthimos,Greek,2009,22-9-2022,8)$
+The Greek weird wave is an apt name. There are no names, explanations and payoffs. The world in movie is equally alien to us as our world is to them. But it still makes you think what our world might have been or maybe is in actuality or maybe heading towards.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Intern,Nancy Meyers,English,2015,27-9-2022,8)$
+Pretty entertaining watch. De nero and Anne Hathaway were amazing.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Naane veruven,K. Selvaraghavan,Tamil,2022,27-9-2022,7)$
+Watched in the theatre, luckily for us there were subtitles. Sadly pseudoscience.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Three Thousand Years of Longing,George Miller,English,2022,01-10-2022,9)$
+The ambiance it created was nice. The concept of having non scientific entities to convey feeling instead of having them to explain the world seemed to be a unique theme to convey. Absolutely loved it in the theatre.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Drive My Car,Ryûsuke Hamaguchi,Japanese,2022,08-10-2022,9)$
+Exceeded expectations of adapting murakami in a movie. Each frame is beautiful and it makes you feel things, just like murakami. Loved it.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Chungking Express,Kar-Wai Wong,Hong kong: Cantonese / Mandarin,1994,12-10-2022,10)$
+I still can't get over the fact that they translated the linger(by cranberries). But man was this movie filled with ambiance and vibes.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Last Film Show,Pan Nalin,Gujrati,2021,15-10-2022,10)$
+This was so fucking moving. loved the film. The food porn was also cute. Cinema Paradiso will be proud.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Na Kelelya Nondi - Play,??,Marathi,2022,12-11-2022,8)$
+The presentation was interesting, made me look back at some mental health issues I have had.
+$logsItemEnd()$
 
 $logsListEnd()$
 $Footer()$
