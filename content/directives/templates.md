@@ -204,8 +204,13 @@ Date: <time>$$date$$</time><br>
 </p></div>
 #
 
-# $Title():
-<img style="width:150px;" alt="$PageName()$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$PageName()$.png">
+# $TitleWithPic():
+<img style="width:160px;display: block;margin-left: auto; margin-right: auto;" alt="$PageName()$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$PageName()$.png">
 <br>
 <h1>$PageName()$</h1>
+#
+
+# $Title():
+<h1>$PageName()$</h1>
+<br>
 #

@@ -1,6 +1,6 @@
 $Header()$
 
-$Title()$
+$TitleWithPic()$
 
 $TreeMapPartial()$
 
