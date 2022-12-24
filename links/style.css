@@ -282,6 +282,22 @@ footer {
     color: var(--h1text);
 }
 
+.pixelart img{
+    width: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pixelart {
+    text-align: center;
+    font-size: 20px;
+}
+
+.pixelart figure {
+    margin-bottom: 50px;
+}
+
 #logsCount{
     font-size: 16px;
 }

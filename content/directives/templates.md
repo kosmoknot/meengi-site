@@ -228,3 +228,17 @@ Date: <time>$$date$$</time><br>
 <h1>$PageName()$</h1>
 <br>
 #
+
+# $PixelArtHover(name,caption):
+<figure>
+<img src="/links/images/$$name$$.png" alt="$$name$$" onmouseover="onHover();" onmouseleave="onOut()">
+<figcaption>$$caption$$</figcaption>
+</figure>
+#
+
+# $PixelArt(name,caption)
+<figure>
+<img src="/links/images/$$name$$" alt=" $$name$$ ">
+<figcaption>$$caption$$</figcaption>
+</figure>
+#
