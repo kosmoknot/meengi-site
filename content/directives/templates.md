@@ -175,6 +175,20 @@ showLogCount()
 <p>
 #
 
+# $logsShowsItemStart(name,language,released,watchDate,rating)
+
+<li>
+<details>
+<summary>
+<ins>$$name$$</ins>
+<br>$$language$$
+<br>Released: $$released$$
+<br>Watch date: $$watchDate$$
+<br>$$rating$$/10
+</summary>
+<p>
+#
+
 # $logsItemEnd():
 </p>
 </details>
