@@ -226,7 +226,6 @@ Date: <time>$$date$$</time><br>
 
 # $Title():
 <h1>$PageName()$</h1>
-<br>
 #
 
 # $PixelArtHover(name,caption):
