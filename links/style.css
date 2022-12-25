@@ -1,8 +1,9 @@
 :root{
     --background:            #1d1f21;
-    --backgroundlight:       #333;
-    --backgroundLightHover:  #444;
     --backgroundHighlight:   #222;
+    --backgroundLight:       #333;
+    --backgroundLighter:     #444;
+    --backgroundLightest:    #555;
     --normaltext:            #c9cacc;
     --textdecor:             #2bbc8a;
     --h1text:                white;
@@ -68,6 +69,7 @@ a {
 a:hover {
     color: var(--textdecor);
 }
+
 .article p{
     font-size: 16px;
     text-align: justify;
@@ -85,6 +87,7 @@ a:hover {
     text-align: justify;
     color: var(--normaltext);
 }
+
 .description {
     font-size: 21px;
     margin-left: auto;
@@ -138,7 +141,7 @@ a:hover {
     flex-direction:row-reverse;
     justify-items: center;
     justify-content: start;
-    background-color: var(--backgroundlight);
+    background-color: var(--backgroundLight);
     margin-bottom: 20px;
     padding: 3px;
 }
@@ -155,6 +158,37 @@ a:hover {
     color: var(--textdecor);
 }
 
+.cheatSheetContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+}
+
+.cheatSheetContainer table {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.cheatSheetContainer th {
+    border-radius: 30px 30px 0 0;
+    background-color: var(--backgroundLightest);
+    text-align: center;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.cheatSheetContainer td {
+    background-color: var(--backgroundLighter);
+    text-align: left;
+    padding: 8px;
+}
+
 blockquote{
     margin-left: -1px;
     text-align: justify;
@@ -162,6 +196,7 @@ blockquote{
     padding-left: 8px;
     border-left: 1px solid var(--normaltext);
 }
+
 summary{
     font-style: bold;
     font-size: 18px;
@@ -169,14 +204,15 @@ summary{
     text-underline-offset: 6px;
     margin-bottom: 10px;
 }
+
 footer {
     width: 100%;
-    background-color: var(--backgroundlight);
+    background-color: var(--backgroundLight);
 }
 
 .footerContainer{
     width: 100%;
-    background-color: var(--backgroundlight);
+    background-color: var(--backgroundLight);
 }
 
 
@@ -244,7 +280,7 @@ footer {
 .logs summary {
     font-size: 16px;
     color: var(--normaltext);
-    background-color:var(--backgroundlight);
+    background-color:var(--backgroundLight);
     margin-left: auto;
     margin-right: auto;
     border-radius: 8px;
@@ -435,7 +471,7 @@ label.tree_label:hover {
   Tree expanded icon
 */
 label.tree_label:before {
-    background:var(--backgroundLightHover);
+    background:var(--backgroundLighter);
     color: var(--normaltext);
     position: relative;
     z-index: 1;
@@ -463,7 +499,7 @@ label.tree_label:before {
     left: -.5em;
     display: block;
     width: 0;
-    border-left: 1px solid var(--backgroundLightHover);
+    border-left: 1px solid var(--backgroundLighter);
     content: "";
 }
 
@@ -474,8 +510,8 @@ label.tree_label:before {
     display: block;
     height: 0.5em;
     width: 1em;
-    border-bottom: 1px solid var(--backgroundLightHover);
-    border-left: 1px solid var(--backgroundLightHover);
+    border-bottom: 1px solid var(--backgroundLighter);
+    border-left: 1px solid var(--backgroundLighter);
     border-radius: 0 0 0 .3em;
     content: '';
 }
@@ -486,8 +522,8 @@ label.tree_label:after {
 
 :checked~label.tree_label:after {
     border-radius: 0 .3em 0 0;
-    border-top: 1px solid var(--backgroundLightHover);
-    border-right: 1px solid var(--backgroundLightHover);
+    border-top: 1px solid var(--backgroundLighter);
+    border-right: 1px solid var(--backgroundLighter);
     border-bottom: 0;
     border-left: 0;
     bottom: 0;

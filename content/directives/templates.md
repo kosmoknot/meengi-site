@@ -235,9 +235,16 @@ Date: <time>$$date$$</time><br>
 </figure>
 #
 
-# $PixelArt(name,caption)
+# $PixelArt(name,caption):
 <figure>
 <img src="/links/images/$$name$$" alt=" $$name$$ ">
 <figcaption>$$caption$$</figcaption>
 </figure>
+#
+
+# $row(item1,item2)
+<tr>
+<td>$$item1$$</td>
+<td>$$item2$$</td>
+</tr>
 #
