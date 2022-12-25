@@ -34,4 +34,13 @@ $Title()$
 </li>
 </ul>
 
+$hr()$
+
+<h2>Linux</h2>
+<ul>
+<li>$link(Arch Wiki,https://wiki.archlinux.org/)$: One of the best beginer friendly resource
+</ul>
+
+$hr()$
+
 $Footer()$

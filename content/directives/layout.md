@@ -17,10 +17,6 @@
 #Technical
 #Non Technical
 #Resources
-#Lists
-
-##About
-#Sitemap
 
 ##Non Technical
 #Why and how I log
@@ -39,3 +35,6 @@
 ##Cheat Sheets
 #vim
 #svg
+
+##About
+#Sitemap
