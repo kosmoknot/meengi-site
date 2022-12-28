@@ -409,6 +409,9 @@ footer {
     .NavigList{
         flex-direction: column-reverse;
     }
+    figure img {
+        width: 100%;
+    }
 
 }
 
