@@ -211,6 +211,16 @@ $Figure($$link$$,$$desc$$)$
 <p>
 #
 
+# $logsTravelItemStart(name,start,end)
+<li>
+<details>
+<summary>
+<ins>$$name$$</ins>
+<br>Duration: $$start$$ => $$end$$
+</summary>
+<p>
+#
+
 # $logsItemEnd():
 </p>
 </details>
