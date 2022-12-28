@@ -273,7 +273,7 @@ Date: <time>$$date$$</time><br>
 
 # $Figure(link,name)
 <figure>
-<img src="$$link$$"></img>
+<img src="$$link$$"></img><br>
 <caption>$$name$$</caption>
 </figure>
 #
