@@ -66,6 +66,14 @@ a {
     text-underline-offset: 5px;
 }
 
+figure{
+    text-align: center;
+}
+
+figure img{
+    width: 500px;
+}
+
 a:hover {
     color: var(--textdecor);
 }

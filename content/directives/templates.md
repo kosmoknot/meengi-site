@@ -176,7 +176,6 @@ showLogCount()
 #
 
 # $logsShowsItemStart(name,language,released,watchDate,rating)
-
 <li>
 <details>
 <summary>
@@ -185,6 +184,29 @@ showLogCount()
 <br>Released: $$released$$
 <br>Watch date: $$watchDate$$
 <br>$$rating$$/10
+</summary>
+<p>
+#
+
+# $logsGamesItemStart(name,type,released,rating)
+<li>
+<details>
+<summary>
+<ins>$$name$$</ins>
+<br>$$type$$
+<br>Released: $$released$$
+<br>$$rating$$/10
+</summary>
+<p>
+#
+
+# $logsFoodItemStart(name,date,link,desc)
+<li>
+<details>
+<summary>
+<ins>$$name$$</ins>
+<br>Date: $$date$$
+$Figure($$link$$,$$desc$$)$
 </summary>
 <p>
 #
@@ -247,4 +269,11 @@ Date: <time>$$date$$</time><br>
 <td>$$item1$$</td>
 <td>$$item2$$</td>
 </tr>
+#
+
+# $Figure(link,name)
+<figure>
+<img src="$$link$$"></img>
+<caption>$$name$$</caption>
+</figure>
 #
