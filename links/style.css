@@ -112,7 +112,6 @@ a:hover {
 
 .hrcls{
     margin-top: 30px;
-    margin-down: 30px;
 }
 
 .childlist{
@@ -290,15 +289,11 @@ footer {
     font-size: 16px;
     color: var(--normaltext);
     background-color:var(--backgroundLight);
-    margin-left: auto;
-    margin-right: auto;
     border-radius: 8px;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
     list-style: none;
-    padding: 5px 0px 10px 10px;
+    padding-left: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     text-decoration: none;
 }
 
