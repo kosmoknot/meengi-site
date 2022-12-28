@@ -11,7 +11,7 @@ $$items$$
 #
 
 # $ChildListItem(name)
-<div><a href="$$name$$.html"><figure><img style="width:150px;" alt="$$name$$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$$name$$.png"></figure>$$name$$<caption></caption></a>
+<div><a href="$$name$$.html"><figure><img style="width:150px;" alt="$$name$$" onmouseover="onHover();" onmouseleave="onOut()" src="/links/images/$$name$$.png"></figure><caption>$$name$$</caption></a>
 </div>
 #
 
