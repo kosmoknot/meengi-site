@@ -416,6 +416,9 @@ footer {
     figure img {
         width: 100%;
     }
+    .childlist {
+        margin-left: 8px;
+    }
 
 }
 
