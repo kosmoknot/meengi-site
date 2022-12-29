@@ -282,11 +282,11 @@ footer {
     list-style: none;
     display: flex;
     flex-direction: column-reverse;
+    margin-left: -50px;
 }
 
 .logs li {
     margin-bottom: 25px;
-    margin-left: -50px;
 }
 
 .logs p {
