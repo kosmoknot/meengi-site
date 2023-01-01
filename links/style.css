@@ -364,6 +364,7 @@ footer {
     border: 1px solid var(--normaltext);
     padding: 10px;
     background-color: var(--backgroundLight);
+    border-radius: 15px;
 }
 .link_dump div:hover{
     background-color: var(--backgroundHighlight);
@@ -452,6 +453,7 @@ footer {
     }
     .childlist{
         display:block;
+        margin-left: 8px;
     }
     .NavigList{
         flex-direction: column-reverse;
@@ -459,8 +461,10 @@ footer {
     figure img {
         width: 100%;
     }
-    .childlist {
-        margin-left: 8px;
+    .link_dump li{
+        display: block;
+        margin-left: -40px;
+
     }
 
 }
