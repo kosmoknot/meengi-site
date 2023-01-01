@@ -1,7 +1,0 @@
-$Header()$
-
-$TitleWithPic()$
-
-$TreeMapPartial()$
-
-$Footer()$

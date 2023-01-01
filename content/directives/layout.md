@@ -25,9 +25,9 @@
 #Why I stopped posting on social media
 
 ##Technical
-#Download spotify playlist
 #Metamorphic Manufacturing
 #My excursion with Linux Mint
+#Download spotify playlist
 
 ##Gallery
 #PixelArt
