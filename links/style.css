@@ -79,12 +79,30 @@ a:hover {
     color: var(--textdecor);
 }
 
+select{
+    color: var(--background);
+    font-size: 16px;
+    margin-left: 10px;
+    background-color: var(--normaltext);
+    padding: 2px;
+    border-radius: 5px;
+}
+
+button{
+    color: var(--background);
+    font-size: 16px;
+    background-color: var(--normaltext);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
 .article p{
     font-size: 16px;
     text-align: justify;
 }
-
-
 
 .bodyContainer {
     width: 650px;
@@ -392,6 +410,18 @@ footer {
 
 .link_dump i {
     color: var(--lighttext);
+}
+
+#answer {
+    visibility: hidden;
+}
+
+#quiz {
+    visibility: hidden;
+}
+
+#show_answer {
+    visibility: hidden;
 }
 
 #logsCount{
