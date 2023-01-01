@@ -52,6 +52,4 @@
 
 ##About
 #Sitemap
-
-##Unsorted
 #flipping tile
