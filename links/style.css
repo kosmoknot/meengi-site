@@ -304,10 +304,11 @@ footer {
     padding-top: 8px;
     padding-bottom: 8px;
     text-decoration: none;
+    border: 1px solid var(--normaltext);
 }
 
 .logs summary:hover {
-    background-color: var(--backgroundHighlight);;
+    background-color: var(--backgroundLighter);
 }
 
 .logs summary ins {
@@ -367,7 +368,7 @@ footer {
     border-radius: 15px;
 }
 .link_dump div:hover{
-    background-color: var(--backgroundHighlight);
+    background-color: var(--backgroundLighter);
 }
 
 .link_dump a {
