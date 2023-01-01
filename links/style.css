@@ -150,7 +150,6 @@ button{
 }
 
 .childlist div {
-    border: 1px solid var(--normaltext);
     border-radius: 50px;
     padding-top: 10px;
     padding-bottom: 15px;
