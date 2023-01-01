@@ -49,7 +49,7 @@ function init(id, path, name_obj, name_mtl, cx, cy, cz, ox, oy, oz) {
 
     new OBJLoader(manager)
       .setMaterials(materials)
-      .setPath("../images/projects/")
+      .setPath("/links/images/projects/")
       .load(name_obj, function (object) {
         object.position.set(ox, oy, oz);
         scene.add(object);
