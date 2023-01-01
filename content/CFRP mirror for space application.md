@@ -4,6 +4,7 @@ $Title()$
 $ArticleStart()$
 <h2>Summary:</h2><br>Optimized CFRP honeycomb parameters using modal and structural analysis in ANSYS Manufactured and assembled a composite CFRP mirror. Optimized Mirror Fixation Device (MFD) parameters using Zernike analysis in MATLAB.
 <br><br>
+
 <canvas id="mirror_assembly"></canvas> <br>
 
 This project was divided into 2 parts:

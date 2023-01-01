@@ -3,9 +3,9 @@ $Header()$
 $Title()$
 $ArticleStart()$
 
+<canvas id="inter_iit"></canvas>
 Designed crutches with a retrofittable attachment, and smart locking mechanism to improve user comfort and provide additional body movements.
 <br>
-<canvas id="inter_iit"></canvas>
 <figure>
 <img src="/links/images/projects/crutch_parts.png">
 <figcaption>Fig.1 - Various parts of ergonomic crutches.</figcaption>
