@@ -412,6 +412,10 @@ footer {
     color: var(--lighttext);
 }
 
+.quizContainer{
+    text-align: left;
+}
+
 #answer {
     visibility: hidden;
 }

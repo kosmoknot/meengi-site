@@ -6,7 +6,7 @@ As a part of the college quizzing team I made a few quizzes for practice, here a
 
 $hr()$
 <br>
-<div>
+<div class="quizContainer">
 Select a Quiz:
 <select class="choose_content" name="quiz" id="quiz_name">
 <option value="Astronomy Quiz">Astronomy</option>
