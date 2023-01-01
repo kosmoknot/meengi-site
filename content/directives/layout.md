@@ -4,6 +4,7 @@
 #Articles
 #Gallery
 #About
+#Linkdump
 
 ##Logs
 #Books

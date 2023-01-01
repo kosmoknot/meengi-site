@@ -4,6 +4,7 @@
     --backgroundLight:       #333;
     --backgroundLighter:     #444;
     --backgroundLightest:    #555;
+    --lighttext:             #888;
     --normaltext:            #c9cacc;
     --textdecor:             #2bbc8a;
     --h1text:                white;
@@ -345,6 +346,48 @@ footer {
 
 .pixelart figure {
     margin-bottom: 50px;
+}
+
+.link_dump {
+    font-size: 16px;
+    color: var(--normaltext);
+    margin-top: 50px;
+    text-align: center;
+}
+
+.link_dump ol {
+    list-style: none;
+}
+
+.link_dump div{
+    margin-bottom: 25px;
+    border: 1px solid var(--normaltext);
+    padding: 10px;
+    background-color: var(--backgroundLight);
+}
+.link_dump div:hover{
+    background-color: var(--backgroundHighlight);
+}
+
+.link_dump a {
+    font-size: 18px;
+    color: var(--normaltext);
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: var(--textdecor);
+}
+
+.link_dump a:hover {
+    color: var(--textdecor);
+}
+
+.link_dump img {
+    width: 22px;
+    vertical-align: -5px;
+}
+
+.link_dump i {
+    color: var(--lighttext);
 }
 
 #logsCount{

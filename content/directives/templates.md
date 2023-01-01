@@ -274,16 +274,26 @@ Date: <time>$$date$$</time><br>
 </figure>
 #
 
-# $row(item1,item2)
+# $row(item1,item2):
 <tr>
 <td>$$item1$$</td>
 <td>$$item2$$</td>
 </tr>
 #
 
-# $Figure(link,name)
+# $Figure(link,name):
 <figure>
 <img src="/links/images/$$link$$"></img><br>
 <caption>$$name$$</caption>
 </figure>
+#
+
+# $dump(date,link,title,tags)
+<li>
+<div>
+<time>$$date$$</time><br>
+<a href="$$link$$"> $$title$$</a>
+<br> <img src="/links/images/tag.png" alt="tag"> <i>$$tags$$</i>
+</div>
+</li>
 #
