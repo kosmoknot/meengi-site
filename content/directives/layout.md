@@ -1,6 +1,6 @@
 ##index
 #Logs
-#Experimentation
+#Projects
 #Articles
 #Gallery
 #About
@@ -26,13 +26,19 @@
 
 ##Technical
 #Download spotify playlist
-#Experimenting with three.js
 #Metamorphic Manufacturing
 #My excursion with Linux Mint
 
 ##Gallery
 #PixelArt
 #3DModels
+
+##Projects
+#Experimenting with three.js
+#Enigma 2021
+#CFRP mirror for space application
+#Ergonomic crutches
+#Quizzes
 
 ##Resources
 #Tools
