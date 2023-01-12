@@ -1,4 +1,5 @@
 $Header()$
+<script src="../links/three/load_models.module.js"></script>
 <script async type="module">
 import { load } from "../links/three/load_models.module.js";
 window.loadModel = loadModel;
@@ -13,6 +14,7 @@ function loadModel() {
     }
 }
 </script>
+
 $Title()$
 <form>
 <label for="models">Choose a model:</label> <br>
