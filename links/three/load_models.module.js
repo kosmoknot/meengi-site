@@ -1,8 +1,8 @@
-import * as THREE from "./three.module";
-import { DDSLoader } from "./DDSLoader";
-import { MTLLoader } from "./MTLLoader";
-import { OBJLoader } from "./OBJLoader";
-import { OrbitControls } from "./OrbitControls";
+import * as THREE from "./three.module.js";
+import { DDSLoader } from "./DDSLoader.js";
+import { MTLLoader } from "./MTLLoader.js";
+import { OBJLoader } from "./OBJLoader.js";
+import { OrbitControls } from "./OrbitControls.js";
 let camera, scene, renderer, controls;
 
 function load(id, path, name, cx, cy, cz, ox, oy, oz) {

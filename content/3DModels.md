@@ -1,6 +1,6 @@
 $Header()$
 <script src="../links/three/load_models.module.js"></script>
-<script async type="module">
+<script type="module">
 import { load } from "../links/three/load_models.module.js";
 window.loadModel = loadModel;
 
