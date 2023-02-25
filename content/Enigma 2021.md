@@ -24,5 +24,14 @@ Every team's journey is unique and depends on how they approach a problem. Every
 <li> <a href="https://abstractxan.xyz/site/enigma_2019">Enigma 2019</a></li>
 </ul>
 
+<ul>
+<li>
+<details>
+<summary>
+<summary>
+</details>
+</li>
+</ul>
+
 $ArticleEnd()$
 $Footer()$
