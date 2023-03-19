@@ -96,6 +96,9 @@ $Figure(logs/uk8.jpg,Safdarjung's tomb)$
 </ul>
 $logsItemEnd()$
 
+$logsTravelItemStart(Lollapalooza, Mumbai,28th Jan 23,29th Jan 23)$
+Cecconi's Italian place: Bruschetta, gnocchi, mushroom canalloni, pizza.
+$logsItemEnd()$
 
 $logsListEnd()$
 
