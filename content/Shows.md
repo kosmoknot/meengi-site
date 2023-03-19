@@ -95,7 +95,7 @@ Capitalism sucks lol.
 $logsItemEnd()$
 
 $logsShowsItemStart(Castlevania,English,2017 - 2021,23-10-2021,9)$
-Something new in vampire genre. Seeing another alucard after Helsing ultimate felt nice. Got progressively better as seasons progressed. Very light focus on powerups trainings but heavily features emotional states of characters, great gender balance and intresting side characters. Seems like there is no main plot which is executed quite well.
+Something new in vampire genre. Seeing another alucard after Helsing ultimate felt nice. Got progressively better as seasons progressed. Very light focus on powerups trainings but heavily features emotional states of characters, great gender balance and interesting side characters. Seems like there is no main plot which is executed quite well.
 $logsItemEnd()$
 
 $logsShowsItemStart(Extraordinary Attorney Woo,Korean,2022,22-09-2022,10)$
@@ -113,7 +113,7 @@ Not so good.
 $logsItemEnd()$
 
 $logsShowsItemStart(Seinfeld,English,1989 - 1998,??,9)$
-Truely funny and Original for it's time ig. Felt slightly dated but Kramer was non cringey awkward done right.
+Truely funny and Original for it's time ig. Felt slightly dated but Kramer was non cringe awkward done right.
 $logsItemEnd()$
 
 $logsShowsItemStart(It's Always Sunny in Philadelphia,English,2005-????,??,9)$
@@ -131,7 +131,6 @@ $logsItemEnd()$
 $logsShowsItemStart(Wanda Vision,English,2021-????,??,8)$
 Far better than other Marvel stuff. Loved the Malcolm in the middle cameo. Too many loose ends for my taste but CMBR made me laugh out loud.
 $logsItemEnd()$
-
 $logsShowsItemStart(Oz,English,1997 - 2003,29-05-2022,10)$
 That was some really good depressing shit. I couldn't finish it in one go just because of how morose it got. Nevertheless an experience like very few others.
 $logsItemEnd()$
@@ -153,7 +152,7 @@ This is a far far better version of expanse. The technical limitations are not e
 $logsItemEnd()$
 
 $logsShowsItemStart(CAT,Hindi,2022,21-12-2022,8)$
-A gritty and realistic setting with decent acting but underwhelming storyline. The events and mystry was strong enough to keep me going through all 8 episodes but never really felt amazing.
+A gritty and realistic setting with decent acting but underwhelming storyline. The events and mystery was strong enough to keep me going through all 8 episodes but never really felt amazing.
 $logsItemEnd()$
 
 $logsShowsItemStart(Made in Heaven S01,Hindi,2019,20-1-2023,10)$
@@ -164,7 +163,12 @@ $logsShowsItemStart(Mirzapur,Hindi,2018,14-1-2023,8)$
 Was far better than expected but still felt like it was a tad bit more Bollywoody than necessary.
 $logsItemEnd()$
 
+$logsShowsItemStart(white lotus s-01,English,2021,06-2-2023,8)$
+$logsItemEnd()$
 
+$logsShowsItemStart(Modern Family,English,2021,24-2-2023,7.5)$
+$logsItemEnd()$
+It's a comfort binge show with an occasional innovation.
 $logsListEnd()$
 
 $Footer()$
