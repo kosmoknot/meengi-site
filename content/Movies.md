@@ -287,5 +287,29 @@ $logsMoviesItemStart(Na Kelelya Nondi - Play,??,Marathi,2022,12-11-2022,8)$
 The presentation was interesting, made me look back at some mental health issues I have had.
 $logsItemEnd()$
 
+$logsMoviesItemStart(About Love - Documentry,Archana Phadke,Marathi,2019,25-1-2023,8)$
+Very honest and sincere portrait of a Marathi family. The unscripted nature and real relationships bring out some interesting dynamics. I also liked how she represents everyone in her family with respect and love while also showing their character flaws.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Drishyam 2,Abhishek Pathak,Hindi,2022,26-1-2023,6)$
+A lot of drama. A lot of very predictable drama.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Decision to Leave,Park Chan-wook,Korean,2022,27-1-2023,8)$
+Slightly disappointing yet beautifully shot.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Dharavi,Sudhir Mishra,Hindi,1992,22-2-2023,9)$
+This was something raw and heartfelt that I always wanted to see in an Indian cinema. Now gonna explore sudhir Mishra for sure.
+$logsItemEnd()$
+
+$logsMoviesItemStart(The Menu,Mark Mylod,English,2022,09-3-2023,7)$
+Unique mix of satire and thriller.
+$logsItemEnd()$
+
+$logsMoviesItemStart(Pestonjee,Vijaya Mehta,Hindi,1988,10-3-2023,9)$
+The film explores times gone by with a sense of longing and melancholy. It starts with a simple message of finding personal happiness and comes to it while teasing but never indulging in multiple cinema tropes. It's not only progressive for 1988 but even for today. This liberal undertone combined with parsi characters and decade of the 1950s creates a beautiful amalgamation that is truly riveting. I loved the theme, characters, direction, costumes and attention to detail. Everything about it feels well crafted to near perfection.
+$logsItemEnd()$
+
 $logsListEnd()$
 $Footer()$

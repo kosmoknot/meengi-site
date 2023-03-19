@@ -156,6 +156,14 @@ $logsShowsItemStart(CAT,Hindi,2022,21-12-2022,8)$
 A gritty and realistic setting with decent acting but underwhelming storyline. The events and mystry was strong enough to keep me going through all 8 episodes but never really felt amazing.
 $logsItemEnd()$
 
+$logsShowsItemStart(Made in Heaven S01,Hindi,2019,20-1-2023,10)$
+This was awesome right from the opening theme song to themes of the show everything was done with brilliance. I loved the lead acting it was very on point. This show just lightly brushed my heart with its realism, skepticism, commentary and beautiful beautiful sets.
+$logsItemEnd()$
+
+$logsShowsItemStart(Mirzapur,Hindi,2018,14-1-2023,8)$
+Was far better than expected but still felt like it was a tad bit more Bollywoody than necessary.
+$logsItemEnd()$
+
 
 $logsListEnd()$
 
