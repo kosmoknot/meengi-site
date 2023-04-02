@@ -601,7 +601,7 @@ label.tree_label:hover {
 /* ————————————————————–
   Tree expanded icon
 */
-label.tree_label:before {
+label.tree_label:after {
     background:var(--backgroundLighter);
     color: var(--normaltext);
     position: relative;
@@ -616,14 +616,14 @@ label.tree_label:before {
     line-height: .9em;
 }
 
-:checked~label.tree_label:before {
+:checked~label.tree_label:after {
     content: '–';
 }
 
 /* ————————————————————–
   Tree branches
 */
-.tree li:before {
+.tree li:after {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -634,7 +634,7 @@ label.tree_label:before {
     content: "";
 }
 
-.tree_label:after {
+.tree_label:before {
     position: absolute;
     top: 0;
     left: -1.5em;
@@ -647,11 +647,11 @@ label.tree_label:before {
     content: '';
 }
 
-label.tree_label:after {
+label.tree_label:before {
     border-bottom: 0;
 }
 
-:checked~label.tree_label:after {
+:checked~label.tree_label:before {
     border-radius: 0 .3em 0 0;
     border-top: 1px solid var(--backgroundLighter);
     border-right: 1px solid var(--backgroundLighter);
@@ -662,11 +662,11 @@ label.tree_label:after {
     height: auto;
 }
 
-.tree li:last-child:before {
+.tree li:last-child:after {
     height: 1em;
     bottom: auto;
 }
 
-.tree>li:last-child:before {
+.tree>li:last-child:after {
     display: none;
 }

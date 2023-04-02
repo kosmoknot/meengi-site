@@ -37,7 +37,7 @@ $$map$$
 //This is the top level title can be customised to look different
 # $TreeMapTitle1(name,childMap)
 <li>
-<input type="checkbox" id="$$name$$" />
+<input type="checkbox" id="$$name$$" checked />
 <label class="tree_label" for="$$name$$"><a style="font-weight: bold; text-decoration: underline;" href="$$name$$.html">$$name$$</a></label>
 <ul>
 $$childMap$$
