@@ -2,13 +2,11 @@ $Header()$
 $Title()$
 $description(Some very basic implementations with CryptoJS)$
 
-<script type="text/javascript" src="../script.js"></script>
-<script type="text/javascript" src="../cryptojs/aes.js"></script>
-<script type="text/javascript" src="../cryptojs/sha256.js"></script>
-<script type="text/javascript" src="../cryptojs/crypto.js"></script>
+<script type="text/javascript" src="../links/script.js"></script>
+<script type="text/javascript" src="../links/cryptojs/aes.js"></script>
+<script type="text/javascript" src="../links/cryptojs/sha256.js"></script>
+<script type="text/javascript" src="../links/cryptojs/crypto.js"></script>
 <style>
-
-
         .input {
             width: 97%;
             margin-left: auto;
@@ -37,7 +35,6 @@ $description(Some very basic implementations with CryptoJS)$
             height: 10px;
         }
 </style>
-        <div class="article">
             <h2>AES</h2>
             Input:<textarea class="input" id="aes-input"> </textarea><br> <br>
             Passcode:<input class="passcode" type="text" id="aes-passcode"> <br> <br>
@@ -46,13 +43,13 @@ $description(Some very basic implementations with CryptoJS)$
                 <button type=button onclick=AESdecode() class=btn> Decrypt </button>
             </div> <br>
             <span id="aes-output" class="output"></span>
-        </div>
-        <div class="article">
+
+$hr()$
             <h2>SHA-256</h2>
             Input:<textarea class="input" id="sha-input"> </textarea><br> <br>
             <div class="buttons">
                 <button type=button onclick=hash() class=btn> Hash </button>
             </div> <br>
             <span id="hash" class="output"></span>
-        </div>
+$hr()$
 $Footer()$

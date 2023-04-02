@@ -47,4 +47,7 @@
 
 ##About
 #Sitemap
-#flipping tile
+
+##Experimenting with three.js
+#flippingtile
+#Browser
