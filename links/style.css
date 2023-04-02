@@ -560,6 +560,18 @@ canvas{
     display: block;
 }
 
+.TreeTopLevel{
+    border-right: 3px solid var(--backgroundLighter);
+    border-bottom: 3px solid var(--backgroundLighter);
+    border-top: 3px solid var(--backgroundLighter);
+    background-color: var(--backgroundHighlight);
+}
+
+.TreeTopLevel label{
+    padding-top: 10px;
+}
+
+
 /* ————————————————————–
   Tree rows
 */
