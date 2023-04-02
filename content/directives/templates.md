@@ -38,7 +38,7 @@ $$map$$
 # $TreeMapTitle1(name,childMap)
 <li>
 <input type="checkbox" id="$$name$$" />
-<label class="tree_label" for="$$name$$"><a style="font-weight: bold;" href="$$name$$.html">$$name$$</a></label>
+<label class="tree_label" for="$$name$$"><a style="font-weight: bold; text-decoration: underline;" href="$$name$$.html">$$name$$</a></label>
 <ul>
 $$childMap$$
 </ul>
