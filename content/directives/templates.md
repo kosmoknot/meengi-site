@@ -289,7 +289,7 @@ Date: <time>$$date$$</time><br>
 </figure>
 #
 
-# $dump(date,link,title,tags)
+# $dump(date,link,title,tags):
 <li>
 <div>
 <time>$$date$$</time><br>
@@ -297,4 +297,15 @@ Date: <time>$$date$$</time><br>
 <br> <img src="/links/images/tag.png" alt="tag"> <i>$$tags$$</i>
 </div>
 </li>
+#
+
+# $EnigmaQuestion(qst,desc,question,img,id):
+<p class="EnigmaQuestionTitle">$$qst$$</p>
+<p class="EnigmaQDiscription">$$desc$$</p>
+<img class="EnigmaImage" src="../links/images/enigma/$$img$$.png" />
+<div class="EnigmaAnswerGrid" id="$$id$$">
+<p class="EnigmaQuestion">$$question$$</p>
+<input class="EnigmaAnswer"></input>
+<button type=button onclick="CheckEnigmaAnswer()" class="EnigmaAnswerButton">Verify!</button>
+</div>
 #

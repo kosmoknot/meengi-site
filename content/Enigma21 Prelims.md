@@ -42,18 +42,16 @@ $hr()$
 <h2>Questions</h2>
 $hr()$
 <div class="EnigmaSection">
+
 <h3>Section 1</h3>
 $hr()$
-<p class="EnigmaQuestion">A beautifully complex equation in 1.5236270862 dimensions</p>
-<p class="EnigmaQDiscription">Play with multiples of 0.5</p>
-<img class="EnigmaImage" src="../links/images/enigma/1.png" />
-<div class="EnigmaAnswerGrid" id="21e1">
-<input class="EnigmaAnswer"></input>
-<button type=button onclick="CheckEnigmaAnswer()" class="EnigmaAnswerButton">Verify!</button>
+$EnigmaQuestion(A beautifully complex equation in 1.5236270862 dimensions,Play with multiples of 0.5,,1,21p1)$
 </div>
+
+<div class="EnigmaSection">
+<h3>Section 2</h3>
 $hr()$
-
+$EnigmaQuestion(I stole this cipher from the internet,,Name the band,2,21p2)$
 </div>
-
 
 $Footer()$
