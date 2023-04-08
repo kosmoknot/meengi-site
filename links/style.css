@@ -585,7 +585,7 @@ canvas{
     list-style: none;
 }
 
-.tree a{
+.tree a {
     font-size: 18px;
     text-decoration: none;
 }
@@ -607,11 +607,6 @@ canvas{
     background-color: var(--backgroundHighlight);
 }
 
-.TreeTopLevel label{
-    padding-top: 10px;
-}
-
-
 /* ————————————————————–
   Tree rows
 */
@@ -631,7 +626,6 @@ canvas{
 .tree>li:last-child {
     padding-bottom: 0;
     list-style: none;
-    content: '-';
 }
 
 /* ————————————————————–
@@ -653,8 +647,8 @@ label.tree_label:hover {
 /* ————————————————————–
   Tree expanded icon
 */
-label.tree_label:after {
-    background:var(--backgroundLighter);
+label.tree_label:before {
+    background: var(--backgroundLighter);
     color: var(--normaltext);
     position: relative;
     z-index: 1;
@@ -668,14 +662,14 @@ label.tree_label:after {
     line-height: .9em;
 }
 
-:checked~label.tree_label:after {
+:checked~label.tree_label:before {
     content: '–';
 }
 
 /* ————————————————————–
   Tree branches
 */
-.tree li:after {
+.tree li:before {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -686,7 +680,7 @@ label.tree_label:after {
     content: "";
 }
 
-.tree_label:before {
+.tree_label:after {
     position: absolute;
     top: 0;
     left: -1.5em;
@@ -699,11 +693,11 @@ label.tree_label:after {
     content: '';
 }
 
-label.tree_label:before {
+label.tree_label:after {
     border-bottom: 0;
 }
 
-:checked~label.tree_label:before {
+:checked~label.tree_label:after {
     border-radius: 0 .3em 0 0;
     border-top: 1px solid var(--backgroundLighter);
     border-right: 1px solid var(--backgroundLighter);
@@ -714,11 +708,11 @@ label.tree_label:before {
     height: auto;
 }
 
-.tree li:last-child:after {
+.tree li:last-child:before {
     height: 1em;
     bottom: auto;
 }
 
-.tree>li:last-child:after {
+.tree>li:last-child:before {
     display: none;
 }
