@@ -100,11 +100,13 @@ button{
 }
 
 input{
-    background-color: var(--backgroundLightest);
+    background-color: var(--normaltext);
+    color: var(--background);
 }
 
 textarea{
-    background-color: var(--backgroundLightest);
+    background-color: var(--normaltext);
+    color: var(--background);
 }
 
 .article p{
@@ -268,47 +270,6 @@ canvas{
     width: 97%;
 }
 
-.footerContainer{
-    width: 100%;
-    background-color: var(--backgroundLight);
-}
-
-
-.footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 650px;
-    display: flex;
-    flex-flow: row;
-    flex-wrap: nowrap;
-    justify-content: space-around;
-    height: 40px;
-    align-items: center;
-    margin-top: 30px;
-    padding-top: 10px;
-}
-
-.footer a {
-    text-decoration: none;
-    color: var(--textdecor);
-}
-
-.footer_text {
-    margin-left: auto;
-    margin-right: auto;
-    flex-wrap: nowrap;
-    font-size: 15px;
-    display: flex;
-    flex-flow: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    color: var(--normaltext);
-    width: 650px;
-    height: 40px;
-    align-items: center;
-    margin-bottom: 15px;
-    padding-top: 8px;
-}
 
 #searchBox {
     text-align: center;
@@ -437,6 +398,46 @@ canvas{
     text-align: left;
 }
 
+
+.EnigmaSection{
+    border: 3px solid var(--backgroundLight);
+    background-color: var(--backgroundHighlight);
+    padding: 10px;
+}
+
+.EnigmaQuestion{
+    font-size: large;
+}
+
+.EnigmaQDescription{
+}
+
+.EnigmaAnswerGrid{
+ display: flex;
+ flex-direction: row;
+}
+
+.EnigmaAnswer{
+ flex-grow: 8;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.EnigmaAnswerButton{
+    display: block;
+    flex-grow: 2;
+    margin-left: 10px;
+}
+
+.EnigmaImage{
+ display: block;
+ width: 90%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 20px;
+}
+
 #answer {
     visibility: hidden;
 }
@@ -452,6 +453,48 @@ canvas{
 #logsCount{
     font-size: 16px;
 }
+
+.footerContainer {
+    width: 100%;
+    background-color: var(--backgroundLight);
+}
+
+.footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    height: 40px;
+    align-items: center;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: var(--textdecor);
+}
+
+.footer_text {
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: nowrap;
+    font-size: 15px;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    color: var(--normaltext);
+    width: 650px;
+    height: 40px;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-top: 8px;
+}
+
 
 #cc {
     width: 40px;
