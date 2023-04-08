@@ -604,9 +604,6 @@ canvas{
 }
 
 .TreeTopLevel{
-    border-right: 3px solid var(--backgroundLighter);
-    border-bottom: 3px solid var(--backgroundLighter);
-    border-top: 3px solid var(--backgroundLighter);
     background-color: var(--backgroundHighlight);
 }
 
