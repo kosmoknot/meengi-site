@@ -53,4 +53,5 @@
 #Browser
 
 ##Enigma 2021
-#StartEnigma21
+#Enigma21 Prelims
+#Enigma21 Finals

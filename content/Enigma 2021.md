@@ -3,7 +3,10 @@ $Title()$
 $ArticleStart()$
 
 $hr()$
-<h1><a href="./StartEnigma21.html">Solve the Enigma!</a></h1>
+<h1><a href="./Enigma21 Prelims.html">Solve the Prelims!</a></h1>
+
+$hr()$
+<h1><a href="./Enigma21 Finals.html">Solve the Finals!</a></h1>
 $hr()$
 
 <h2>About</h2><br>

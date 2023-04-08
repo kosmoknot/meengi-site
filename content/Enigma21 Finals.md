@@ -1,7 +1,8 @@
 $Header()$
 <script src="/links/cryptojs/EnigmaAnswers.js"></script>
 <script src="/links/cryptojs/sha256.js"></script>
-<h1>Enigma 2021</h1>
+
+<h1>Enigma 2021: Finals</h1>
 
 <h2>Rules</h2>
 <ol>
@@ -18,7 +19,6 @@ $Header()$
 <li> Only ONE submission per team. (Again, Not anymore!😀)
 <li> Read the rules AGAIN
 </ol>
-
 
 <h2>Still confused?</h2>
 <ol>
@@ -53,6 +53,5 @@ $hr()$
 $hr()$
 
 </div>
-
 
 $Footer()$
