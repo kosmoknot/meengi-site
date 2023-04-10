@@ -20,8 +20,8 @@ Every team's journey is unique and depends on how they approach a problem. Every
 
 <h2>Creators</h2>
 <ul>
-<li><a href="https://abstractxan.xyz/site/home">Priyansh Sangule</a></li>
-<li>Anup Kulkarni (Me 😀) </li>
+<li><a href="https://abstractxan.xyz/site/home">Priyansh</a></li>
+<li>Anup(Me 😀) </li>
 <li>Bhargav</li>
 <li>Kranti</li>
 <li>Srikarah</li>
