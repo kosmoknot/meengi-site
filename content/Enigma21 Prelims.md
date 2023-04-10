@@ -54,4 +54,34 @@ $hr()$
 $EnigmaQuestion(I stole this cipher from the internet,,Name the band,2,21p2)$
 </div>
 
+<div class="EnigmaSection">
+<h3>Section 3</h3>
+$hr()$
+$EnigmaQuestionNoImage(Hidden in plain sight,++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>++++.++++++++++++..----.+++.<------------.-----------..>---.---------------.++++++++++++++++++.+.---------------.---.+++++++.+++++.<-.>-----------.++++++++++++.--.<+.>--------.----.<+++++++++++++++++++++++.>+++++++++++++++++++++++++.<+++++++.<++++++++++++++++++++.>>--------.<------.,Name the cocktail,21p3)$
+</div>
+
+<div class="EnigmaSection">
+<h3>Section 4</h3>
+$hr()$
+$EnigmaQuestion(There is no question. There is no title.,Don't listen to us. This not a question. There are no games.,Who made that font? 5 characters,3,21p4)$
+</div>
+
+<div class="EnigmaSection">
+<h3>Section 5</h3>
+$hr()$
+$EnigmaQuestion(What does this A-mazing question reveal?.,,,5,21p5)$
+</div>
+
+<div class="EnigmaSection">
+<h3>Section 6</h3>
+$hr()$
+$EnigmaQuestionNoImage(Night has fallen and stars are out; connect the dots and patterns will sprout.,https://imgur.com/a/r2kTmDB,,21p6)$
+</div>
+
+<div class="EnigmaSection">
+<h3>Section 7</h3>
+$hr()$
+$EnigmaQuestionNoImage(Game State Dance,RAM-GLTMRAM-TGO<br>RAM-GB<br>RAM-W<br>RAM-C<br>RAM-LYTD<br>RAM-T<br>RAM-GL<br>RAM-B<br>RAM-M<br>RAM-FT<br>RAM-DIR<br>RAM-C,,21p7)$
+</div>
+
 $Footer()$

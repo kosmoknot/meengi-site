@@ -309,3 +309,13 @@ Date: <time>$$date$$</time><br>
 <button type=button onclick="CheckEnigmaAnswer()" class="EnigmaAnswerButton">Verify!</button>
 </div>
 #
+
+# $EnigmaQuestionNoImage(qst,desc,question,id)
+<p class="EnigmaQuestionTitle">$$qst$$</p>
+<p class="EnigmaQDiscription">$$desc$$</p>
+<div class="EnigmaAnswerGrid" id="$$id$$">
+<p class="EnigmaQuestion">$$question$$</p>
+<input class="EnigmaAnswer"></input>
+<button type=button onclick="CheckEnigmaAnswer()" class="EnigmaAnswerButton">Verify!</button>
+</div>
+#
