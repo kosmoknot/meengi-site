@@ -40,7 +40,9 @@ $Header()$
 $hr()$
 
 <h2>Questions</h2>
+
 $hr()$
+<br>
 <div class="EnigmaSection">
 
 <h3>Section 1</h3>
