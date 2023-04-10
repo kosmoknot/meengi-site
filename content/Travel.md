@@ -52,10 +52,16 @@ $logsItemEnd()$
 $logsTravelItemStart(Rajasthan,7th Oct 21,17th Oct 21)$
 <ul style="list-style: decimal;">
 <li><b>Ahmedabad</b>
+$Figure(logs/ahmedabad.jpg,Aquarium)$
 <li><b>Udaipur</b>
+$Figure(logs/udaipur.jpg,Udaipur at evening)$
 <li><b>Jodhpur</b>
+$Figure(logs/jodhpur.jpg,Jodhpur castle)$
 <li><b>Jaisalmer</b>
+$Figure(logs/jaisalmer.jpg,Sand dunes)$
 <li><b>Jaipur</b>
+$Figure(logs/jaipur2.jpg,Hava Mahel)$
+$Figure(logs/jaipur.jpg,A royal hotel room)$
 </ul>
 $logsItemEnd()$
 
@@ -97,7 +103,19 @@ $Figure(logs/uk8.jpg,Safdarjung's tomb)$
 $logsItemEnd()$
 
 $logsTravelItemStart(Lollapalooza, Mumbai,28th Jan 23,29th Jan 23)$
-Cecconi's Italian place: Bruschetta, gnocchi, mushroom canalloni, pizza.
+Visited a amazing italian cafe : Cecconi's Italian place: Bruschetta, gnocchi, mushroom canalloni, pizza.
+<br><br>
+There was some good finds in the music festival:
+<ul>
+<li>The Strokes!(My new all time favourite! Amazing find.)
+<li>Madeon (Most amazing visual display. Truely mesmerizing.)
+<li>Wombats
+<li>Sand dunes
+<li>Greta van fleet
+</ul>
+
+Listened to Imagine dragons perform topless I wish I was that talented and buff...<br>
+Prateek Kuhad was good but we went for the DIVINE and DIVINE was very off beat very regretable.
 $logsItemEnd()$
 
 $logsListEnd()$
