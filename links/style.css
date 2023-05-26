@@ -122,9 +122,10 @@ textarea{
 }
 
 .index_text{
-    font-size: 21px;
-    text-align: justify;
+    font-size: 22px;
+    text-align: center;
     color: var(--normaltext);
+    margin-bottom: 40px;
 }
 
 .description {
