@@ -47,6 +47,7 @@
 
 ##About
 #Sitemap
+#Redeem Birthday Code
 
 ##Experimenting with three.js
 #flippingtile
@@ -55,5 +56,3 @@
 ##Enigma 2021
 #Enigma21 Prelims
 #Enigma21 Finals
-
-##Redeem Birthday Code
