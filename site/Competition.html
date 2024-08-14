@@ -1,42 +1,46 @@
+<script src="../links/competition.js"></script>
+<script ></script>
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="Digital garden of kosmoknot">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>kosmoknot - Redeem Birthday Code </title>
+    <title>kosmoknot - Competition </title>
     <link rel="icon" href="/links/images/icon.png" type="image/icon type">
     <link href="/links/style.css" rel="stylesheet" type="text/css" media="all">
     <script src="/links/script.js"></script>
 </head>
 <body>
-<div class="NavigList"><div class="NavigItem"><a href="Redeem Birthday Code.html">Redeem Birthday Code</a></div><div class="NavigItem"><a href="About.html">About</a></div><div class="NavigItem"><a href="index.html">index</a></div>
+<div class="NavigList"><div class="NavigItem"><a href="Competition.html">Competition</a></div><div class="NavigItem"><a href="Redeem Birthday Code.html">Redeem Birthday Code</a></div><div class="NavigItem"><a href="About.html">About</a></div><div class="NavigItem"><a href="index.html">index</a></div>
 <div class="NavigItem"><a href="Sitemap.html">Sitemap</a></div>
 </div>
 <div class="bodyContainer">
-<script src="../links/bday.js"></script>
 
+<h1>Here We Go!</h1>
 <div class ="article"><p>
-<div style="text-align: center;">
-<h1>Birthday Challenge!</h1>
 
-<h2>Test Your Knowledge & Win Exciting Prizes</h2>
+<p style="text-align:center;" id="qst">Are you ready?</p>
 
-<p >Eligibility Criteria:
-<ul style="text-align: left;">
-<li>Are you expecting a birthday gift from us? If yes, then you are eligible!
-<li>A gorgeous young woman who can do it all with strong social media presence, dance, standup comedy & acting experience. (We are very selective!)
-<li>Lawyer but still not a lawyer.
-<li>Topic of a recent pathbreaking research paper.
-</ul>
-<p>
+<img  style="display: block;margin-left: auto;margin-right: auto;" width="350" src="/links/images/Books.png"></img><br>
+
 <div style="text-align: center;">
-<hr>
-Enter promo-code to enter:
-<input type="text" id="code" name="code"><br><br>
-<button onclick="enterContest()">Enter</button>
+
+Answer: <input id="ans"></input>
+
+<button id="checkButton" onclick="checkAnswer()">Check</button>
+
+<img style="margin-left:10px; vertical-align: middle;" width="40" id="statusImg" src="/links/images/bday/correct.png"></img>
+
+<br>
+<br>
+<b style="text-align: center;">All small no space, enjoy the fireworks!</b>
+<br>
+<i style="text-align: center;">For any hints please contact on +91-9923774284</i> <br>
 </div>
-</div>
+<canvas style="display: block;position: fixed;top: 0;left: 0;width: 100%;height: 100%;z-index: -1;"id="fireworksCanvas"></canvas>
+<script src="../links/fireworks.js"></script>
+
 </p></div>
 </div>
 </body>
