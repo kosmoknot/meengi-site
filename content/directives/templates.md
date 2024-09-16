@@ -319,3 +319,8 @@ Date: <time>$$date$$</time><br>
 <button type=button onclick="CheckEnigmaAnswer()" class="EnigmaAnswerButton">Verify!</button>
 </div>
 #
+
+# $EuroTripEntry(date,place)
+<time>$$date$$</time>
+<h3>$$place$$</h3>
+#

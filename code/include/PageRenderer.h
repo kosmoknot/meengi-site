@@ -3,11 +3,13 @@
 
 #include "LayoutParser.h"
 #include "TemplateParser.h"
+#include "ShortHandParser.h"
 
 class PageRenderer
 {
 private:
     static TemplateParser templateParser;
+    static ShortHandParser shortHandParser;
     static Node *currentNode;
 
     PageRenderer();

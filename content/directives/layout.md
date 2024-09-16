@@ -23,6 +23,7 @@
 #Why and how I log
 #Fine-tuning my misinformation detector
 #Why I stopped posting on social media
+#Euro Trip
 
 ##Technical
 #Metamorphic Manufacturing
@@ -47,7 +48,6 @@
 
 ##About
 #Sitemap
-#Redeem Birthday Code
 
 ##Experimenting with three.js
 #flippingtile
@@ -56,8 +56,5 @@
 ##Enigma 2021
 #Enigma21 Prelims
 #Enigma21 Finals
-
-##Redeem Birthday Code
-#Competition
 
 ##Unlisted

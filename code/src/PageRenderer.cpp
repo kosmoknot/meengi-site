@@ -3,10 +3,12 @@
 #include <stdio.h>
 #include "PageRenderer.h"
 #include "FileHelpers.h"
+#include "ShortHandParser.h"
 
 using namespace std;
 
 TemplateParser PageRenderer::templateParser = TemplateParser();
+ShortHandParser PageRenderer::shortHandParser = ShortHandParser();
 Node *PageRenderer::currentNode = nullptr;
 
 string PageRenderer::GetInputPath(Node *node) { return "./content/" + node->name + ".md"; }
@@ -20,11 +22,12 @@ std::string PageRenderer::InterpretLine(const std::string &iLine)
     // We might want to change the newline character to <br> instead
     // Or we can put a optional parameter in template.md if need arises
     // Same thing happens at TemplateParser::TemplateParser()
-    return templateParser.Parse(iLine) + "\n";
+    return shortHandParser.Parse(templateParser.Parse(iLine)) + "\n";
 }
 
 void PageRenderer::Render(Node *startNode)
 {
+
     ofstream output;
     queue<Node *> q;
     q.push(startNode);
