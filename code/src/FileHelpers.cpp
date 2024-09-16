@@ -115,8 +115,7 @@ bool toInt(const string &str, int &out)
 void ClearPreviousWarnings()
 {
     ofstream warningfile;
-    warningfile.open("warnings.txt", ios::in | ios::out);
-    warningfile << "Meengi encountered following warning: " << '\n';
+    warningfile.open("warnings.txt", std::ios::trunc);
     warningfile.close();
 }
 void ClearPreviousFiles()
